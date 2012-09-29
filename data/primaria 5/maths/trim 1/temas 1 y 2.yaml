@@ -1,0 +1,468 @@
+- question: cuatrocientos cincuenta y cinco mil doscientos tres
+  answers: 
+    - 455.203
+    - aproximadamente cuatrocientos seSenta mil
+    - aproximadamente quinientos mil
+    - aproximadamente cuatrocientos cincuenta y cinco mil
+  wrong_options:
+    - 455.202
+    - 455.204
+    - 455.302
+    - 456.203
+    - 465.203
+    - 454.203
+    - 445.203
+    - 55.203
+    - aproximadamente cuatrocientos seTenta mil
+    - aproximadamente cuatrocientos cincuenta mil
+    - aproximadamente cuatro cientos mil
+    - aproximadamente setecientos mil cincuenta y cinco mil
+    - aproximadamente un millón
+- question: docientos cuarenta y seis
+  answers: 
+    - 246
+    - 200 + 40 + 6
+    - 2C + 4D +6U
+  wrong_options:
+    - 146
+    - 245
+    - 244
+    - 243
+    - 346
+    - 446
+    - 426
+    - 146
+    - 200 + 40 + 6
+    - 300 + 40 + 6
+    - 400 + 40 + 6
+    - 200 + 41 + 6
+    - 200 + 50 + 61
+    - 3C + 4D +6U
+    - 4C + 2D +6U
+    - 2C + 41D +6U
+    - 2C + 4U +6U
+    - 2C + 4D +6U
+- question: seiscientos noventa y uno
+  answers: 
+    - 691
+    - 6C + 9D + 1U
+    - 600 + 90 + 1
+    - 600U + 90U + 1U
+  wrong_options:
+    - 916
+    - 661
+    - 196
+    - 666
+    - 346
+    - 446
+    - 426
+    - 146
+    - 6C + 9D + 1U
+    - 7C + 9D + 1U
+    - 5C + 9D + 1U
+    - 6C + 9C + 1U
+    - 6C + 9U + 1U
+    - 6C + 9U + 1U
+    - 6C + 9D + 5U
+    - 6C + 9U + 10U
+    - 600 + 80 + 1
+    - 600 + 9 + 1
+    - 600 + 0 + 1
+    - 700 + 90 + 1
+    - 400 + 90 + 1
+    - 600 + 95 + 1
+    - 600U + 90U + 1U
+- question: tres mil cuatrocientos noventa y tres
+  answers: 
+    - 3.493
+    - 3UM + 4C + 9D + 3U
+    - 3000 + 400 + 90 + 3
+    - 3000U + 400U + 90U + 3U
+  wrong_options:
+    - 2.493
+    - 3.993
+    - 3.433
+    - 666
+    - 346
+    - 446
+    - 426
+    - 146
+    - 3UM + 4C + 9D + 3U
+    - 4UM + 4C + 9D + 3U
+    - 5UM + 4C + 9D + 3U
+    - 3UM + 6C + 9D + 3U
+    - 3UM + 4C + 91D + 3U
+    - 3UM + 3C + 9D + 3U
+    - 3UM + 40C + 9D + 3U
+    - 3UM + 4C + 9D + 31U
+    - 3000 + 400 + 90 + 3
+    - 4000 + 400 + 90 + 3
+    - 3500 + 400 + 90 + 3
+    - 3000 + 800 + 90 + 3
+    - 3000 + 402 + 90 + 3
+    - 3000 + 400 + 0 + 3
+    - 3000 + 400 + 90 + 9
+    - 3000C + 400U + 90U + 3U
+    - 3000U + 400D + 90U + 3U
+    - 3000U + 400U + 90U + 3U
+    - 3000U + 400UM + 90U + 3U
+    - 3000U + 400U + 90U + 3U
+    - 3000U + 400U + 96U + 3U
+    - 5000U + 400U + 90U + 3U
+    - 2000U + 400U + 90U + 3U
+    - 0U + 400U + 90U + 3U
+- question: 23.245.132
+  answers: 
+    - veintitres millones doscientos cuarenta y cinco mil cientro treinta y dos
+    - algo más de 23 millones
+    - aproximadamente 23 millones
+    - aproximadamente 23 millones doscientas mil
+  wrong_options:
+    - veintitres millones trescientos cuarenta y cinco mil cientro treinta y dos
+    - veintitres millones doscientos cuarenta y dos mil cientro treinta y dos
+    - veintitres millones doscientos cuarenta y cinco mil treinta y dos
+    - treinta y cinco millones doscientos cuarenta y cinco mil cientro treinta y dos
+    - veintitres millones doscientos cuarenta y cuatro mil cientro treinta y dos
+    - noventa y ocho millones doscientos cuarenta y cinco mil cientro treinta
+    - veintitres millones doscientos cuarenta y cinco mil cientro treinta y tres
+    - casi 23 millones
+    - aproximadamente 22 millones
+    - aproximadamente 24 millones
+    - aproximadamente 23 millones trescientas mil
+- question: 598.341
+  answers: 
+    - quinientos noventa y ocho mil trescientos cuarenta y uno
+    - casi seiscientas mil
+    - aproximadamente seiscientos mil
+    - algo menos de seiscientos mil
+  wrong_options:
+    - quinientos noventa y ocho mil trescientos cuarenta y dos
+    - quinientos noventa y siete mil trescientos cuarenta y uno
+    - quinientos noventa y ocho mil trescientos cuarenta y dos
+    - cuatrocientos noventa y ocho mil trescientos cuarenta y uno
+    - quinientos ochenta y ocho mil trescientos cuarenta y uno
+    - cuatro mil trescientos cuarenta y uno
+    - quinientos noventa y ocho mil trescientos cuarenta
+    - dos millones quinientos noventa y ocho mil trescientos treinta y uno
+    - casi quinientos mil
+    - aproximadamente quinientos cincuenta mil
+- question: 385.465
+  answers: 
+    - 3CM + 8DM + 5M + 4C + 6D + 5U
+    - 300.000 + 80.000 + 5.000 + 400 + 60 + 5
+    - aproximadamente cuatro cientos mil
+    - trescientos ochenta y cinco mil, cuatrocientos sesenta y cinco
+    - aproximadamente trescientos noventa mil
+    - aproximadamente trescientos ochenta y cinco mil
+  wrong_options:
+    - 3CM + 8 DM + 5M + 4C + 6D + 5U
+    - 4CM + 8 DM + 5M + 4C + 6D + 5U
+    - 5CM + 7 DM + 5M + 4C + 6D + 5U
+    - 3CM + 6 DM + 5M + 4C + 6D + 5U
+    - 3CM + 3 DM + 4M + 4C + 6D + 5U
+    - 3CM + 8 DM + 4M + 1C + 6D + 5U
+    - 3CM + 8 DM + 5M + 2C + 6D + 5U
+    - 3CM + 8 DM + 5M + 6C + 6D + 5U
+    - 3CM + 8 DM + 5M + 3C + 6D + 5U
+    - 5CM + 8 DM + 5M + 4C + 5D + 5U
+    - 3CM + 8 DM + 5M + 4C + 6D
+    - 8 DM + 5M + 4C + 6D + 5U
+    - aproximadamente trescientos mil
+    - aproximadamente trescientos ochenta mil
+    - aproximadamente trescientos ochenta y seis mil
+    - algo más de trescientos ochenta y seis mil
+    - 300.000 + 80.000 + 5.000 + 400 + 60 + 5
+    - 200.000 + 80.000 + 5.000 + 400 + 60 + 5
+    - 500.000 + 80.000 + 5.000 + 400 + 60 + 5
+    - 600.000 + 80.000 + 5.000 + 400 + 60 + 5
+    - 300.000 + 90.000 + 5.000 + 400 + 60 + 5
+    - 300.000 + 80.500 + 5.000 + 400 + 60 + 5
+    - 300.000 + 80.000 + 6.000 + 400 + 60 + 5
+    - 300.000 + 80.000 + 7.000 + 400 + 60 + 5
+    - 300.000 + 80.000 + 8.000 + 400 + 60 + 5
+    - 300.000 + 80.000 + 5.000 + 477 + 60 + 5
+    - 300.000 + 80.000 + 5.000 + 403 + 60 + 5
+    - 300.000 + 80.000 + 5.000 + 800 + 60 + 5
+    - 300.000 + 80.000 + 5.000 + 400 + 80 + 5
+    - 300.000 + 80.000 + 5.000 + 400 + 60
+    - 300.000 + 80.000 + 5.000 + 400 + 60 + 1
+    - 300.000 + 80.000 + 5.000 + 400 + 60 + 2
+    - 300.000 + 80.000 + 5.000 + 400 + 60 + 3
+    
+- question: 234.741
+  answers: 
+    - 2CM + 3DM + 4M + 7C + 4D + 1U
+    - aproximadamente doscientos mil
+    - algo más de doscientos mil
+    - aproximadamente doscientros treinta mil
+    - aproximadamente doscientos treinta y cuatro mil
+    - algo más de doscientos treinta y cuatro mil
+    - 200.000 + 30.000 + 4.000 + 700 + 40 +1
+  wrong_options:
+    - 2CM + 3DM + 4M + 7C + 4D + 1U
+    - 3DM + 4M + 7C + 4D + 1U
+    - 2CM + 3DM + 4M + 7C + 4D
+    - 2CM + 3DM + 4M + 4D + 1U
+    - 1CM + 3DM + 4M + 7C + 4D + 1U
+    - 2CM + 4DM + 4M + 7C + 4D + 1U
+    - 2CM + 7DM + 4M + 7C + 4D + 1U
+    - 2CM + 3DM + 3M + 7C + 4D + 1U
+    - 2CM + 3DM + 1M + 7C + 4D + 1U
+    - 2CM + 3DM + 4M + 4C + 7D + 1U
+    - 2CM + 3DM + 4M + 7C + 1D + 4U
+    - 2CM + 3DM + 4M + 7C + 4D + 2U
+    - aproximadamente trescientos mil
+    - aproximadamente cien mil
+    - aproximadamente doscientos cuarenta mil
+    - aproximadamente doscientos veinte mil
+    - 200.000 + 30.000 + 3.000 + 700 + 40 +1
+    - 200.000 + 30.000 + 700 + 40 +1
+    - 30.000 + 4.000 + 700 + 40 +1
+    - 200.000 + 30.000 + 4.001 + 700 + 40 +1
+    - 200.000 + 30.020 + 4.000 + 700 + 40 +1
+    
+
+- question: 190.001
+  answers: 
+    - 1CM + 9DM + 1U
+    - aproximadamente ciento noventa mil
+    - aproximadamente doscientos mil
+    - ciento noventa mil uno
+  wrong_options:
+    - 2CM + 9DM + 1U
+    - 1M + 9DM + 1U
+    - 1CM + 8DM + 1U
+    - 1CM + 7DM + 1U
+    - 1DM + 9DM + 1U
+    - 1CM + 9DM + 1D
+    - 1CM + 9DM + 1C
+    - 2CM + 3DM + 3M + 7C + 4D + 1U
+    - 2CM + 3DM + 1M + 7C + 4D + 1U
+    - 2CM + 3DM + 4M + 4C + 7D + 1U
+    - 2CM + 3DM + 4M + 7C + 1D + 4U
+    - 2CM + 3DM + 4M + 7C + 4D + 2U
+    - aproximadamente ciento noventa mil
+    - aproximadamente ciento ochenta mil
+    - aproximadamente cien mil
+    - aproximadamente trescientos mil
+    - aproximadamente ciento noventa mil uno
+- question: Mayor número 6 cifras con las siguientes cifras   3 1 5 8 7 9 3 0 4
+  answers: 
+    - 987.543
+  wrong_options:
+    - 987.543
+    - 978.543
+    - 87.533
+    - 987.544
+    - 288.543
+    - 984.543
+    - 389.543
+    - 687.543
+    - 987.544
+- question: Mayor número 6 cifras con las siguientes cifras   3 5 8 0 0 1 2 1
+  answers: 
+    - 853.211
+  wrong_options:
+    - 53.211
+    - 953.211
+    - 835.211
+    - 863.211
+    - 52.211
+    - 853.213
+    - 853.215
+    - 853.131
+    - 853.121
+
+- question: Propiedad conmutativa
+  answers: 
+    - A+B = B+A
+    - A*B = B*A
+  wrong_options:
+    - A-B = B-A
+    - A*B = B/A
+    - A/B = B/A
+    - A+0 = A
+    - A*1 = A
+    - A+B+C = (A+B)+C
+    - A+B+C = A+(B+C)
+    - (A+B)+C = A+(B+C)
+    - A*B*C = (A*B)*C
+    - A*B*C = A*(B*C)
+    - (A*B)*C = A*(B*C)
+- question: Propiedad conmutativa
+  answers: 
+    - A+(-B) = -B+A
+    - A+(-B) = (-B)+A
+  wrong_options:
+    - A-B = B-A
+    - A*B = B/A
+    - A/B = B/A
+    - A+0 = A
+    - A*1 = A
+    - A+B+C = (A+B)+C
+    - A+B+C = A+(B+C)
+    - (A+B)+C = A+(B+C)
+- question: Propiedad asociativa suma
+  answers: 
+    - (A+B)+C = A+(B+C)
+  wrong_options:
+    - (A*B)*C = A*(B*C)
+    - A+B = B+A
+    - (A+B) = (B+A)
+    - A/B = B/A
+    - A+0 = A
+    - A*1 = A
+    - A*(B+C) = (A*B) + (A*C)
+    - (A*B) + (A*C) = A*(B+C)
+- question: Propiedad asociativa producto
+  answers: 
+    - (A*B)*C = A*(B*C)
+  wrong_options:
+    - (A+B)+C = A+(B+C)
+    - A*B = B*A
+    - (A*B) = (B*A)
+    - A/B = B/A
+    - A+0 = A
+    - A*1 = A
+    - A*(B+C) = (A*B) + (A*C)
+    - (A*B) + (A*C) = A*(B+C)
+
+- question: Propiedad distributiva producto respecto a la suma
+  answers: 
+    - A*(B+C) = (A*B) + (A*C)
+  wrong_options:
+    - (A+B)+C = A+(B+C)
+    - A*B = B*A
+    - (A*B) = (B*A)
+    - A/B = B/A
+    - A+0 = A
+    - A*1 = A
+    - (A*B) + (A*C) = A*(B+C)
+
+- question: Producto de una suma
+  answers: 
+    - A*(B+C) = (A*B) + (A*C)
+    - (B+C)*A = (B*A) + (C*A)
+  wrong_options:
+    - A*B = B*A
+    - (A*B) = (B*A)
+    - A/B = B/A
+    - A+0 = A
+    - A*1 = A
+    - (A*B) + (A*C) = A*(B+C)
+
+- question: Factor común
+  answers: 
+    - (A*B) + (A*C) = A*(B+C)
+  wrong_options:
+    - A*B = B*A
+    - (A*B) = (B*A)
+    - A/B = B/A
+    - A+0 = A
+    - A*1 = A
+    - A*(B+C) = (A*B) + (A*C)
+
+- question: "Factor común es lo inverso a\npropiedad distributiva del producto respecto a la suma"
+  answers: ["sí"]
+  wrong_options: [no]
+
+- question: (B+C)*A = A*(B+C)
+  answers: [conmutativa producto]
+  wrong_options:
+    - conmutativa suma
+    - asociativa
+    - distributiva
+    - elemento neutro
+    - inverso
+    - ecuación incorrecta
+- question: (B+C)+A = A+(B+C)
+  answers: 
+    - conmutativa suma
+    - (B+C)+A = (C+B)+A
+  wrong_options:
+    - conmutativa producto
+    - asociativa
+    - distributiva
+    - elemento neutro
+    - inverso
+    - ecuación incorrecta        
+- question: (A+B)+C = A+(B+C)
+  answers: [asociativa suma]
+  wrong_options:
+    - conmutativa producto
+    - conmutativa suma
+    - asociativa producto
+    - elemento neutro
+    - inverso
+    - ecuación incorrecta
+- question: (A-B)-C = A-(B-C)
+  answers: 
+    - ecuación incorrecta
+  wrong_options:
+    - conmutativa producto
+    - conmutativa suma
+    - asociativa suma
+    - elemento neutro
+    - inverso
+    - asociativa producto
+- question: A+B*C = ...
+  answers: 
+    - = A+(B*C)
+  wrong_options:
+    - = (A+B)*C
+    - = (B+A)*C
+    - = (A*C) + (B*C)
+    - ecuación incorrecta
+- question: A*B+C = ...
+  answers: 
+    - = (A*B)+C
+  wrong_options:
+    - = (A+B)*C
+    - = (B+A)*C
+    - = (A*C) + (B*C)
+    - A*(B+C)
+    - ecuación incorrecta
+- question: A-B-C = ...
+  answers: 
+    - = (A-B)-C
+  wrong_options:
+    - = A-(B-C)
+    - = B-A-C
+    - ecuación incorrecta
+- question: A-B-C = ...
+  answers: 
+    - = A+(-B)+(-C)
+  wrong_options:
+    - = A-(B-C)
+    - = B-A-C
+    - ecuación incorrecta
+- question: A-B-C = ...
+  answers: 
+    - = A+(-B)+(-C)
+  wrong_options:
+    - = A-(B-C)
+    - = B-A-C
+    - ecuación incorrecta
+- question: ecuación incorrecta
+  answers: 
+    - A+-B-C = ...
+    - A--B = ...
+  wrong_options:
+    - A-(B-C) = ...
+    - B-A-C = ...
+    - A+(-B)+(-C) = ...
+    - A+B = ...
+    - A-(-B) = ...
+    - B-A
+- question: A-(-B) = ...
+  answers: 
+    - = A+B
+  wrong_options:
+    - = A-B
+    - = B-A
+- question: A-(-B) = ...
+  answers: 
+    - = A-1*(-B)
+  wrong_options:
+    - = A-B
+    - = B-A
