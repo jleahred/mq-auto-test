@@ -1,4 +1,4 @@
-- question: This is a test 1
+﻿- question: This is a test 1
   answer: valid question 1
   wrong_options:
     - error1
@@ -18,4 +18,19 @@
     - error10
     - error11
     - error12
-    
+- question: "Cuestión en español"
+  answer: "resultado válido"
+  wrong_options:
+    - error1
+    - error2
+    - error3
+    - error4
+    - error5
+    - error6
+    - error7
+    - error8
+    - error9
+    - error10
+    - error11
+    - error12
+        

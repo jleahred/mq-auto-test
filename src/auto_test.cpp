@@ -186,7 +186,7 @@ void  auto_test::configure_ui_options(const  ae::msg::sub_question&  question)
     for(auto it=question.wrong_options.begin(); it!=question.wrong_options.end(); ++it)
         all_options_vector.push_back(*it);
 
-    ui->lbl_question->setText(question.question.c_str());
+    ui->lbl_question->setText(QString::fromUtf8(question.question.c_str()));
 
     //  riffle answers
     for(unsigned i=0; i<all_options_vector.size()*10; i++)
@@ -208,7 +208,7 @@ void  auto_test::configure_ui_options(const  ae::msg::sub_question&  question)
     for(unsigned i=0; i<number_questions; ++i)
     {
         QOption* option = get_option_by_index(i);
-        option->setText(all_options_vector[i].c_str());
+        option->setText(QString::fromUtf8(all_options_vector[i].c_str()));
         option->setEnabled(true);
         option->setVisible(true);
         if(i==pos_right_question)
@@ -242,10 +242,10 @@ void auto_test::slot_option_clicked(QOption* option)
 void  auto_test::go_congratulations(void)
 {
     ui->stackedWidget->setCurrentIndex(2);
-    ui->pte_report->setPlainText(MTK_SS(
+    ui->pte_report->setPlainText(QString::fromUtf8(MTK_SS(
                                             "Time:  " << mtk::dtNowLocal() - status.Get().started << std::endl  << std::endl
                                      << YAML::string_from_yaml(status)
-                                     ).c_str());
+                                                       ).c_str()));
 }
 
 void auto_test::on_pushButton_clicked()
