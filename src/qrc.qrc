@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>green_question.svg</file>
+    </qresource>
+</RCC>

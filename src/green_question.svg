@@ -1,0 +1,36 @@
+<svg width="47" height="47" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient y2="0.97244" x2="0.53831" y1="0.09475" x1="0.04415" id="imagebot_5" xlink:href="#imagebot_16"/>
+  <linearGradient id="imagebot_16">
+   <stop stop-color="#ffffff" id="imagebot_52" offset="0"/>
+   <stop stop-color="#c8c8c8" id="imagebot_51" offset="1"/>
+  </linearGradient>
+  <linearGradient id="imagebot_19">
+   <stop stop-color="#e6e6e6" offset="0" id="imagebot_50"/>
+   <stop stop-color="#11661d" stop-opacity="0" offset="1" id="imagebot_49"/>
+  </linearGradient>
+  <linearGradient id="imagebot_20">
+   <stop stop-color="#2edc32" id="imagebot_36" offset="0"/>
+   <stop stop-color="#11661d" id="imagebot_35" offset="1"/>
+  </linearGradient>
+  <linearGradient id="imagebot_18">
+   <stop stop-color="#236b0d" id="imagebot_34" offset="0"/>
+   <stop stop-color="#0a2205" id="imagebot_33" offset="1"/>
+  </linearGradient>
+  <radialGradient r="27.5" fy="16.36197" fx="24.76428" cy="16.36197" cx="24.76428" gradientTransform="matrix(2.521415e-2,1.026125,-0.978137,2.404729e-2,38.83024,-3.575704)" gradientUnits="userSpaceOnUse" id="imagebot_11" xlink:href="#imagebot_20"/>
+  <linearGradient y2="1.17739" x2="1.17369" y1="0" x1="0.02969" id="imagebot_13" xlink:href="#imagebot_18"/>
+  <radialGradient r="27.5" fy="14.04682" fx="18.38724" cy="14.04682" cx="18.38724" gradientTransform="matrix(1.142398e-2,1.098850,-1.843995,1.878760e-2,52.15051,-5.667446)" gradientUnits="userSpaceOnUse" id="imagebot_9" xlink:href="#imagebot_19"/>
+  <linearGradient y2="1.17716" x2="1.17347" y1="0.00006" x1="0.02974" id="imagebot_7" xlink:href="#imagebot_18"/>
+ </defs>
+ <metadata id="imagebot_14">image/svg+xmlGreen Unknown2005-11-01Jean-Victor Balinjean.victor.balin@gmail.comicon</metadata>
+ <g id="imagebot_2" label="Calque 1">
+  <g transform="translate(-8.625 -8.625)" label="Calque 1" id="imagebot_3">
+   <path fill="url(#imagebot_13)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="M32,8.63068C19.1131,8.63068 8.63068,19.1131 8.63068,32C8.63068,44.8869 19.1131,55.36932 32,55.36932C44.8869,55.36932 55.36932,44.8869 55.36932,32C55.36932,19.1131 44.8869,8.63068 32,8.63068z" id="imagebot_12"/>
+   <path fill="url(#imagebot_11)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="M54.5,32C54.5,44.42 44.42,54.5 32,54.5C19.58,54.5 9.5,44.42 9.5,32C9.5,19.58 19.58,9.5 32,9.5C44.42,9.5 54.5,19.58 54.5,32z" id="imagebot_10"/>
+   <path fill="url(#imagebot_9)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="M32.01699,9.15625C22.57479,9.15625 14.50542,14.86505 11.0625,22.96875C16.00632,25.80182 21.39326,27.85585 27.18134,27.59375C32.75531,27.27992 37.55351,23.53092 43.23697,23.8125C47.45106,23.71646 52.24433,25.29437 54.48855,29C53.14263,17.84672 43.65764,9.15625 32.01699,9.15625z" id="imagebot_8"/>
+   <path fill="url(#imagebot_7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" d="M32,8.625C19.1131,8.625 8.625,19.1131 8.625,32C8.625,44.88691 19.1131,55.375 32,55.375C44.88691,55.375 55.375,44.8869 55.375,32C55.375,19.1131 44.8869,8.625 32,8.625zM32,9.5C44.42001,9.5 54.5,19.58 54.5,32C54.5,44.42001 44.42,54.5 32,54.5C19.58,54.5 9.5,44.42 9.5,32C9.5,19.58 19.58,9.5 32,9.5z" id="imagebot_6"/>
+   <path fill="url(#imagebot_5)" stroke-width="1px" d="M32.55689,39.00632C32.69276,35.83597 33.10038,35.06602 35.90841,32.89206C39.39579,30.21991 39.80341,29.90287 40.12045,29.63113C41.70562,28.27241 42.61144,26.18903 42.61144,24.01507C42.61144,19.07839 38.62584,15.95332 32.28514,15.95332C26.30677,15.95332 22.09472,18.85193 22.09472,23.01868C22.09472,25.46438 23.90635,27.23072 26.39734,27.23072C28.70717,27.23072 30.29235,25.73612 30.29235,23.60746C30.29235,22.38461 29.79415,21.38821 28.84304,20.66356C28.02781,20.02949 27.98252,19.9842 27.98252,19.66716C27.98252,19.03309 28.97892,18.53489 30.38293,18.53489C33.10037,18.53489 34.64026,20.34653 34.64026,23.51688C34.64026,25.37379 33.9609,27.68363 32.82863,29.72171C30.33764,34.1602 29.97531,35.06602 29.97531,37.10411C29.97531,37.55701 30.02061,38.28167 30.11119,39.00632L32.55689,39.00632M31.42462,41.49731C29.0695,41.49731 27.16729,43.39952 27.16729,45.75464C27.16729,48.06447 29.0695,50.01197 31.37933,50.01197C33.77974,50.01197 35.68195,48.10976 35.68195,45.75464C35.68195,43.39952 33.77974,41.49731 31.42462,41.49731" id="imagebot_4"/>
+  </g>
+  <title>Calque 1</title>
+ </g>
+</svg>
