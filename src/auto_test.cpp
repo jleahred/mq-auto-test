@@ -48,15 +48,15 @@ void  save_test(void)
     mtk::list<std::string>  wrong_options;
     wrong_options.push_back("error1");
     wrong_options.push_back("error2");
-    /*
-    ae::msg::sub_question question("This is a test", "valid question", wrong_options);
-    */
+    mtk::list<std::string>  right_options;
+    wrong_options.push_back("Valid1");
+    wrong_options.push_back("Valid 1");
 
     mtk::map<ae::msg::sub_question::key_type, ae::msg::sub_question>        map_questions;
 
 
-    ae::msg::sub_question question1{"This is a test 1", "valid question 1", wrong_options};
-    ae::msg::sub_question question2{"This is a test 2", "valid question 2", wrong_options};
+    ae::msg::sub_question question1{"This is a test 1", right_options, wrong_options};
+    ae::msg::sub_question question2{"This is a test 2", right_options, wrong_options};
 
 
     map_questions.insert(std::make_pair(question1.get_key(), question1));
@@ -180,6 +180,15 @@ void  auto_test::update_counter(void)
 }
 
 
+std::string   pick_random_right_answer(const mtk::list<std::string>& answer_list)
+{
+    mtk::vector<std::string> answer_vector;
+    for(auto it=answer_list.begin(); it!=answer_list.end(); ++it)
+        answer_vector.push_back(*it);
+
+    return answer_vector[mtk::rand()%answer_vector.size()];
+}
+
 void  auto_test::configure_ui_options(const  ae::msg::sub_question&  question)
 {
     mtk::vector<std::string>  all_options_vector;
@@ -202,7 +211,8 @@ void  auto_test::configure_ui_options(const  ae::msg::sub_question&  question)
                                      unsigned(status.Get().options_per_question+1)
                                    : question.wrong_options.size()+1);
     unsigned pos_right_question = mtk::rand() % number_questions;
-    all_options_vector.push_back(question.answer);
+    all_options_vector.push_back(pick_random_right_answer(question.answers));
+
     std::swap(all_options_vector[pos_right_question], all_options_vector[all_options_vector.size()-1]);
 
     for(unsigned i=0; i<number_questions; ++i)

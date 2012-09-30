@@ -40,7 +40,7 @@ public:
 
     
     // constructor
-    explicit sub_question (    const std::string&  _question,   const std::string&  _answer,   const mtk::list<std::string >&  _wrong_options );
+    explicit sub_question (    const std::string&  _question,   const mtk::list<std::string >&  _answers,   const mtk::list<std::string >&  _wrong_options );
     explicit sub_question ( const qpid::types::Variant::Map&  mv );
     virtual ~sub_question (){};
     virtual std::string get_message_type_as_string       (void) const  { return "sub_question"; }
@@ -57,7 +57,7 @@ public:
 
     // fields
     std::string                               question; 
-    std::string                               answer; 
+    mtk::list<std::string >                   answers; 
     mtk::list<std::string >                   wrong_options; 
 
 
@@ -93,7 +93,7 @@ public:
         public:
             explicit  sub_question__qpid_map ( const qpid::types::Variant::Map&  mv );
             explicit  sub_question__qpid_map ( const sub_question&  c ) : m_static(c) {}
-            explicit  sub_question__qpid_map (    const std::string&  _question,   const std::string&  _answer,   const mtk::list<std::string >&  _wrong_options );
+            explicit  sub_question__qpid_map (    const std::string&  _question,   const mtk::list<std::string >&  _answers,   const mtk::list<std::string >&  _wrong_options );
             ~sub_question__qpid_map() {};
             
 

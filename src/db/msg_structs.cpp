@@ -397,8 +397,8 @@ void  copy (mtk::list<T>& result, const qpid::types::Variant& v)
 //  internal fordward declarations
 
 
-sub_question::sub_question (   const std::string&  _question,   const std::string&  _answer,   const mtk::list<std::string >&  _wrong_options)
-    :     question(_question),   answer(_answer),   wrong_options(_wrong_options) 
+sub_question::sub_question (   const std::string&  _question,   const mtk::list<std::string >&  _answers,   const mtk::list<std::string >&  _wrong_options)
+    :     question(_question),   answers(_answers),   wrong_options(_wrong_options) 
        
     {  
     }
@@ -440,10 +440,10 @@ void sub_status::before_send(void) const
 
     //    generate_class_qpid_variant_in_impl
     
-sub_question__qpid_map::sub_question__qpid_map (   const std::string&  _question,   const std::string&  _answer,   const mtk::list<std::string >&  _wrong_options)
+sub_question__qpid_map::sub_question__qpid_map (   const std::string&  _question,   const mtk::list<std::string >&  _answers,   const mtk::list<std::string >&  _wrong_options)
       :  m_static( 
    _question,
-   _answer,
+   _answers,
    _wrong_options) 
     {  
     }
@@ -469,7 +469,7 @@ std::ostream& operator<< (std::ostream& o, const sub_question & c)
 {
     o << "{ "
 
-        << "question:"<<   c.question << "  "        << "answer:"<<   c.answer << "  "        << "wrong_options:"<<   c.wrong_options << "  "
+        << "question:"<<   c.question << "  "        << "answers:"<<   c.answers << "  "        << "wrong_options:"<<   c.wrong_options << "  "
         << " }";
     return o;
 };
@@ -480,7 +480,7 @@ YAML::Emitter& operator << (YAML::Emitter& o, const sub_question & c)
 {
     o << YAML::BeginMap
 
-        << YAML::Key << "question"  << YAML::Value <<   c.question        << YAML::Key << "answer"  << YAML::Value <<   c.answer        << YAML::Key << "wrong_options"  << YAML::Value <<   c.wrong_options
+        << YAML::Key << "question"  << YAML::Value <<   c.question        << YAML::Key << "answers"  << YAML::Value <<   c.answers        << YAML::Key << "wrong_options"  << YAML::Value <<   c.wrong_options
         << YAML::EndMap;
     return o;
 };
@@ -492,7 +492,7 @@ void  operator >> (const YAML::Node& node, sub_question & c)
 
 
         node["question"]  >> c.question;
-        node["answer"]  >> c.answer;
+        node["answers"]  >> c.answers;
         node["wrong_options"]  >> c.wrong_options;
 
 
@@ -538,7 +538,7 @@ void  operator >> (const YAML::Node& node, sub_status & c)
 
 bool operator== (const sub_question& a, const sub_question& b)
 {
-    return (          a.question ==  b.question  &&          a.answer ==  b.answer  &&          a.wrong_options ==  b.wrong_options  &&   true  );
+    return (          a.question ==  b.question  &&          a.answers ==  b.answers  &&          a.wrong_options ==  b.wrong_options  &&   true  );
 };
 
 bool operator!= (const sub_question& a, const sub_question& b)
@@ -578,10 +578,10 @@ void  copy (sub_question& c, const qpid::types::Variant& v)
 
                     it = mv.find("a");
                     if (it== mv.end())
-                        throw mtk::Alarm(MTK_HERE, "msg_build", "missing mandatory field answer on message sub_question::__internal_qpid_fill", mtk::alPriorCritic);
+                        throw mtk::Alarm(MTK_HERE, "msg_build", "missing mandatory field answers on message sub_question::__internal_qpid_fill", mtk::alPriorCritic);
                     else
-                        copy(c.answer, it->second);
-                        //c.answer = it->second;
+                        copy(c.answers, it->second);
+                        //c.answers = it->second;
 //   field_type
 
                     it = mv.find("o");
@@ -610,7 +610,7 @@ void __internal_add2map (qpid::types::Variant::Map& map, const sub_question& a)
 //  field_type
         __internal_add2map(map, a.question, std::string("q"));
 //  field_type
-        __internal_add2map(map, a.answer, std::string("a"));
+        __internal_add2map(map, a.answers, std::string("a"));
 //  field_type
         __internal_add2map(map, a.wrong_options, std::string("o"));
 
@@ -764,7 +764,7 @@ void __internal_add2map (qpid::types::Variant::Map& map, const mtk::nullable<sub
 //   field_type
    __internal_get_default ((std::string*)0),
 //   field_type
-   __internal_get_default ((std::string*)0),
+   __internal_get_default ((mtk::list<std::string >*)0),
 //   field_type
    __internal_get_default ((mtk::list<std::string >*)0)
             );
@@ -792,7 +792,7 @@ sub_question::sub_question (const qpid::types::Variant::Map&  mv)
      : //   field_type
    question(__internal_get_default((std::string*)0)),
 //   field_type
-   answer(__internal_get_default((std::string*)0)),
+   answers(__internal_get_default((mtk::list<std::string >*)0)),
 //   field_type
    wrong_options(__internal_get_default((mtk::list<std::string >*)0)) 
     {

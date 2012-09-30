@@ -16,7 +16,7 @@ END_INIT
 sub_question [< KEY:question >]
 {
     question            (q)     :   string
-    answer              (a)     :   string
+    [answers]           (a)     :   string
     [wrong_options]     (o)     :   string
 }
 

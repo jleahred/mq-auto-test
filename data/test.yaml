@@ -1,10 +1,12 @@
 ﻿- question: This is a test 1
-  answer: valid question 1
+  answers: 
+    - valid answer 1
+    - valid answer 2
   wrong_options:
     - error1
     - error2
 - question: This is a test 2
-  answer: valid question 2
+  answers: [valid question 2, valid answer 2]
   wrong_options:
     - error1
     - error2
@@ -18,8 +20,9 @@
     - error10
     - error11
     - error12
-- question: "Cuestión en español"
-  answer: "resultado válido"
+- question: "Cuestión\n en español"
+  answers: 
+    - "resultado válido"
   wrong_options:
     - error1
     - error2
