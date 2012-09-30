@@ -1,5 +1,6 @@
-- question: cuatrocientos cincuenta y cinco mil doscientos tres
+- question: 
   answers: 
+    - cuatrocientos cincuenta y cinco mil doscientos tres
     - 455.203
     - aproximadamente cuatrocientos seSenta mil
     - aproximadamente quinientos mil
@@ -18,8 +19,9 @@
     - aproximadamente cuatro cientos mil
     - aproximadamente setecientos mil cincuenta y cinco mil
     - aproximadamente un millón
-- question: docientos cuarenta y seis
+- question: 
   answers: 
+    - docientos cuarenta y seis
     - 246
     - 200 + 40 + 6
     - 2C + 4D +6U
@@ -42,8 +44,9 @@
     - 2C + 41D +6U
     - 2C + 4U +6U
     - 2C + 4D +6U
-- question: seiscientos noventa y uno
+- question: 
   answers: 
+    - seiscientos noventa y uno
     - 691
     - 6C + 9D + 1U
     - 600 + 90 + 1
@@ -72,8 +75,9 @@
     - 400 + 90 + 1
     - 600 + 95 + 1
     - 600U + 90U + 1U
-- question: tres mil cuatrocientos noventa y tres
+- question: 
   answers: 
+    - tres mil cuatrocientos noventa y tres
     - 3.493
     - 3UM + 4C + 9D + 3U
     - 3000 + 400 + 90 + 3
@@ -111,8 +115,9 @@
     - 5000U + 400U + 90U + 3U
     - 2000U + 400U + 90U + 3U
     - 0U + 400U + 90U + 3U
-- question: 23.245.132
+- question: 
   answers: 
+    - 23.245.132
     - veintitres millones doscientos cuarenta y cinco mil cientro treinta y dos
     - algo más de 23 millones
     - aproximadamente 23 millones
@@ -129,8 +134,9 @@
     - aproximadamente 22 millones
     - aproximadamente 24 millones
     - aproximadamente 23 millones trescientas mil
-- question: 598.341
+- question: 
   answers: 
+    - 598.341
     - quinientos noventa y ocho mil trescientos cuarenta y uno
     - casi seiscientas mil
     - aproximadamente seiscientos mil
@@ -146,8 +152,9 @@
     - dos millones quinientos noventa y ocho mil trescientos treinta y uno
     - casi quinientos mil
     - aproximadamente quinientos cincuenta mil
-- question: 385.465
+- question: 
   answers: 
+    - 385.465
     - 3CM + 8DM + 5M + 4C + 6D + 5U
     - 300.000 + 80.000 + 5.000 + 400 + 60 + 5
     - aproximadamente cuatro cientos mil
@@ -189,8 +196,9 @@
     - 300.000 + 80.000 + 5.000 + 400 + 60 + 2
     - 300.000 + 80.000 + 5.000 + 400 + 60 + 3
     
-- question: 234.741
+- question: 
   answers: 
+    - 234.741
     - 2CM + 3DM + 4M + 7C + 4D + 1U
     - aproximadamente doscientos mil
     - algo más de doscientos mil
@@ -422,6 +430,15 @@
     - = (A*C) + (B*C)
     - A*(B+C)
     - ecuación incorrecta
+- question: A+B*C = ...
+  answers: 
+    - = A+(B*C)
+  wrong_options:
+    - = (A+B)*C
+    - = (B+A)*C
+    - = (A*C) + (B*C)
+    - A*(B+C)
+    - ecuación incorrecta
 - question: A-B-C = ...
   answers: 
     - = (A-B)-C
@@ -466,3 +483,18 @@
   wrong_options:
     - = A-B
     - = B-A
+
+- question: elemento neutro
+  answers: 
+    - A+0
+    - B+0
+    - A*1
+    - 1*B
+    - 1*A
+  wrong_options:
+    - A*B
+    - A*0
+    - A+1
+    - 1+A
+    - 0*A
+    - 0*B
