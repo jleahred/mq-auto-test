@@ -189,13 +189,46 @@ std::string   pick_random_right_answer(const mtk::list<std::string>& answer_list
     return answer_vector[mtk::rand()%answer_vector.size()];
 }
 
-void  auto_test::configure_ui_options(const  ae::msg::sub_question&  question)
+mtk::tuple<std::string, std::string>   pick_2_random_answers(const mtk::list<std::string>& answer_list)
+{
+    mtk::vector<std::string> answer_vector;
+    for(auto it=answer_list.begin(); it!=answer_list.end(); ++it)
+        answer_vector.push_back(*it);
+
+    unsigned first  = mtk::rand()%answer_vector.size();
+    unsigned second=0;
+    if(mtk::rand()%answer_vector.size() != 1)
+    {
+        while(second == first)
+            second = mtk::rand()%answer_vector.size();
+    }
+
+    return mtk::make_tuple (
+                answer_vector[first],
+                answer_vector[second]
+                );
+}
+
+void  auto_test::configure_ui_options(const  ae::msg::sub_question&  question_info)
 {
     mtk::vector<std::string>  all_options_vector;
-    for(auto it=question.wrong_options.begin(); it!=question.wrong_options.end(); ++it)
+    for(auto it=question_info.wrong_options.begin(); it!=question_info.wrong_options.end(); ++it)
         all_options_vector.push_back(*it);
 
-    ui->lbl_question->setText(QString::fromUtf8(question.question.c_str()));
+    std::string  question = question_info.question;
+    std::string  right_answer;
+    if(question != ""  &&  question != "~")
+    {
+        right_answer = pick_random_right_answer(question_info.answers);
+    }
+    else
+    {
+        mtk::tuple<std::string, std::string>  _2answers = pick_2_random_answers(question_info.answers);
+        question = _2answers._0;
+        right_answer = _2answers._1;
+    }
+
+    ui->lbl_question->setText(QString::fromUtf8(question.c_str()));
 
     //  riffle answers
     for(unsigned i=0; i<all_options_vector.size()*10; i++)
@@ -206,12 +239,12 @@ void  auto_test::configure_ui_options(const  ae::msg::sub_question&  question)
         std::swap(all_options_vector[index1], all_options_vector[index2]);
     }
 
-    unsigned number_questions = (unsigned(status.Get().options_per_question)<question.wrong_options.size()+1
+    unsigned number_questions = (unsigned(status.Get().options_per_question)<question_info.wrong_options.size()
                                  ?
-                                     unsigned(status.Get().options_per_question+1)
-                                   : question.wrong_options.size()+1);
+                                     unsigned(status.Get().options_per_question)
+                                   : question_info.wrong_options.size());
     unsigned pos_right_question = mtk::rand() % number_questions;
-    all_options_vector.push_back(pick_random_right_answer(question.answers));
+    all_options_vector.push_back(right_answer);
 
     std::swap(all_options_vector[pos_right_question], all_options_vector[all_options_vector.size()-1]);
 
