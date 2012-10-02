@@ -62,13 +62,6 @@ public:
 
 
 
-
-    //   KEY INFO
-        typedef decltype(question) key_type;
-        key_type    get_key(void) const  {   return  question;  }
-    //   KEY INFO
-
-
     //  ADDRESS info
 
 

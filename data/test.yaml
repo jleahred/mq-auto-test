@@ -1,4 +1,4 @@
-﻿- question: This is a test 1
+﻿- question: This <font color=red>is</font color> a test 1
   answers: 
     - valid answer 1
     - valid answer 2

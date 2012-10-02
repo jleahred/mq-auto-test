@@ -39,8 +39,8 @@ private:
 
 
 
-    mtk::map<ae::msg::sub_question::key_type, ae::msg::sub_question>        map_questions;
-    mtk::vector<ae::msg::sub_question::key_type>                            vector_questions;
+    mtk::list<ae::msg::sub_question>        list_questions;
+    mtk::vector<ae::msg::sub_question>     vector_questions;
 
     void  start_game(void);
     bool  load_questions(void);

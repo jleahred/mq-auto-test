@@ -13,7 +13,7 @@ END_INIT
 //---------------------------------------------------------------------
 
 
-sub_question [< KEY:question >]
+sub_question [<  >]
 {
     question            (q)     :   string
     [answers]           (a)     :   string

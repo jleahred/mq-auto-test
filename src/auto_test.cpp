@@ -52,22 +52,22 @@ void  save_test(void)
     wrong_options.push_back("Valid1");
     wrong_options.push_back("Valid 1");
 
-    mtk::map<ae::msg::sub_question::key_type, ae::msg::sub_question>        map_questions;
+    mtk::list<ae::msg::sub_question>        list_questions;
 
 
     ae::msg::sub_question question1{"This is a test 1", right_options, wrong_options};
     ae::msg::sub_question question2{"This is a test 2", right_options, wrong_options};
 
 
-    map_questions.insert(std::make_pair(question1.get_key(), question1));
-    map_questions.insert(std::make_pair(question2.get_key(), question2));
+    list_questions.push_back(question1);
+    list_questions.push_back(question2);
 
 
 
     std::ofstream file;
     file.open ("../data/test.yaml", std::ios::out | std::ios::trunc);
     YAML::Emitter out;
-    out  << map_questions;
+    out  << list_questions;
     file << out.c_str();
     file.close();
 }
@@ -92,7 +92,7 @@ void  auto_test::start_game(void)
 }
 
 
-void  load_from_file(const std::string& file_name, mtk::map<ae::msg::sub_question::key_type, ae::msg::sub_question>&        map_questions)
+void  load_from_file(const std::string& file_name, mtk::list<ae::msg::sub_question>&        list_questions)
 {
     std::ifstream file(file_name.c_str());
 
@@ -101,8 +101,13 @@ void  load_from_file(const std::string& file_name, mtk::map<ae::msg::sub_questio
     YAML::Node doc;
     parser.GetNextDocument(doc);
 
-    doc >>  map_questions;
+    doc >>  list_questions;
     file.close();
+
+    for(auto it=list_questions.begin(); it!=list_questions.end(); ++it)
+    {
+        std::cout << *it << std::endl;
+    }
 }
 
 
@@ -127,7 +132,7 @@ QOption*  auto_test::get_option_by_index(int index)
 
 bool  auto_test::load_questions(void)
 {
-    map_questions.clear();
+    list_questions.clear();
     vector_questions.clear();
 
 
@@ -137,15 +142,15 @@ bool  auto_test::load_questions(void)
     {
         QModelIndex  index = selections.at(i);
         if(file_system_model->isDir(index) == false)
-            load_from_file(file_system_model->filePath(index).toStdString(), map_questions);
+            load_from_file(file_system_model->filePath(index).toStdString(), list_questions);
     }
-    if(map_questions.size() == 0)
+    if(list_questions.size() == 0)
     {
         ui->lbl_status->setText("empty questions");
         ui->stackedWidget->setCurrentIndex(0);
     }
-    for(auto it=map_questions.begin(); it!=map_questions.end(); ++it)
-        vector_questions.push_back(it->first);
+    for(auto it=list_questions.begin(); it!=list_questions.end(); ++it)
+        vector_questions.push_back(*it);
 
     return  (vector_questions.size() >0 ? true : false);
 }
@@ -165,12 +170,11 @@ void  auto_test::clear_ui_options(void)
 
 void auto_test::ask_random_question(void)
 {
-    ae::msg::sub_question::key_type  random_index =  vector_questions[mtk::rand()%vector_questions.size()];
+    ae::msg::sub_question  random_question =  vector_questions[mtk::rand()%vector_questions.size()];
 
-    ae::msg::sub_question question = map_questions.find(random_index)->second;
 
     clear_ui_options();
-    configure_ui_options(question);
+    configure_ui_options(random_question);
     update_counter();
 }
 
@@ -197,12 +201,11 @@ mtk::tuple<std::string, std::string>   pick_2_random_answers(const mtk::list<std
 
     unsigned first  = mtk::rand()%answer_vector.size();
     unsigned second=0;
-    if(mtk::rand()%answer_vector.size() != 1)
+    if(answer_vector.size() != 1)
     {
         while(second == first)
             second = mtk::rand()%answer_vector.size();
     }
-
     return mtk::make_tuple (
                 answer_vector[first],
                 answer_vector[second]
