@@ -1,0 +1,636 @@
+﻿- question: 
+  answers: 
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+  wrong_options:
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - flower
+    - reproductive organ of a plant
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+    - fruit
+    - the ripened <font color=red>ovary</font color> of a plant containing the seeds
+    - corolla
+    - group of COLOUred petals of a flower
+- question: 
+  answers: 
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+  wrong_options:
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - flower
+    - reproductive organ of a plant
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+    - fruit
+    - the ripened <font color=red>ovary</font color> of a plant containing the seeds
+    - corolla
+    - group of COLOUred petals of a flower
+- question: 
+  answers: 
+    - corolla
+    - group of COLOUred petals of a flower
+  wrong_options:
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - flower
+    - reproductive organ of a plant
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+    - fruit
+    - the ripened <font color=red>ovary</font color> of a plant containing the seeds
+- question: 
+  answers: 
+    - flower
+    - reproductive organ of a plant
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+    - fruit
+    - the ripened <font color=red>ovary</font color> of a plant containing the seeds
+- question: 
+  answers: 
+    - fruit
+    - the ripened <font color=red>ovary</font color> of a plant containing the seeds
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+- question: 
+  answers: 
+    - mosses
+    - small, non-flowering plants with tiny stems, leaves and roots
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+- question: 
+  answers: 
+    - ovary
+    - female reproductive organ that contains the ovules of a flower
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+- question: 
+  answers: 
+    - pistil
+    - female part of a plant
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+- question: 
+  answers: 
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+
+- question: 
+  answers: 
+    - spore
+    - a small, unicellular, reproductive body used for reproduction of non-flowering plants
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+- question: 
+  answers: 
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+- question: 
+  answers: 
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+- question: 
+  answers: 
+    - stolon
+    - specialised stem that grows horizontally from the mother plant
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+
+- question: 
+  answers: 
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+- question: 
+  answers: 
+    - style
+    - a long tube that connects the stigma to the ovary
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+- question: 
+  answers: 
+    - calyx
+    - group of small <font color=green>green</font color> sepals of a <font color=red>flower</font color>
+  wrong_options:
+    - corolla
+    - group of COLOUred petals of a flower
+    - anther
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - angiosperm
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - stomata
+    - <font color=red>tiny pores</font color> on the underside of plant <font color=red>leaves</font color> that take in <font color=red>carbon dioxide</font color>
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+    - stigma
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+    - staments
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - sepals
+    - small <font color=green>green leaves</font color> that make up the <font color=red>calyx</font color>
+- question: 
+  answers: 
+    - tuber
+    - a plant with an <font color=red>undergound</font color> stem (i.e. <font color=red>potato</font color>)
+  wrong_options:
+    - the <font color=red>male</font color> parts of a flower that <font color=red>produces pollen</font color>
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - A plant with large <font color=red>flowers</font color>. Fuit with flowers
+    - the part of <font color=red>stamen</font color> that contains the <font color=red>polen</font color>
+    - group of COLOUred petals of a flower
+    - the end of the <font color=red>style</font color>. It <font color=red>takes in pollen</font color>
+- question: asexual reproduction
+  answers: 
+    - when organisms create offspring without <font color=red>using male or female organs</font color>
+    - <font color=red>CUTTING</font color> is a piece of steam that <font color=red>grows roots</font color> and becomes a new plant
+    - <font color=red>GRAFTING</font color> is a piece of plant that <font color=red>joined</font color> another plant and becomes a <font color=red>new plant</font color>
+  wrong_options:
+    - sexual reproduction
+    - when organisms create offspring <font color=red>usgin male and female organ</font color>
+- question: 
+  answers: 
+    - sexual reproduction
+    - when organisms create offspring <font color=red>usgin male and female organ</font color>
+  wrong_options:
+    - when organisms create offspring without <font color=red>using male or female organs</font color>
+    - <font color=red>CUTTING</font color> is a piece of steam that <font color=red>grows roots</font color> and becomes a new plant
+    - <font color=red>GRAFTING</font color> is a piece of plant that <font color=red>joined</font color> another plant and becomes a <font color=red>new plant</font color>
+- question: 
+  answers: 
+    - autotroph
+    - an organisms that can make its own food
+    - plants and algae are autotroph
+  wrong_options:
+    - used in photosynthesis
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - to break down in small pieces
+- question: 
+  answers: 
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - used in photosynthesis
+  wrong_options:
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+    - decompose
+    - to break down in small pieces
+- question: 
+  answers: 
+    - cloroplast
+    - <font color=green>green</font color> organelle in plant cells that carries out <font color=red>photosynthesis</font color>
+  wrong_options:
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - decompose
+    - to break down in small pieces
+- question: 
+  answers: 
+    - decompose
+    - to break down in small pieces
+  wrong_options:
+    - elaborated sap
+    - pholen vessels are tubes that tale elaborated sab from the leaves to the rest of the plant
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+- question: 
+  answers: 
+    - elaborated sap
+    - pholen vessels are tubes that tale elaborated sab from the leaves to the rest of the plant
+  wrong_options:
+    - decompose
+    - to break down in small pieces
+    - embryo
+    - a miniature plant inside a seed
+    - gymnosperm
+    - a plant with <font color=red>small</font color>, simple <font color=red>flowers</font color> that do <font color=red>not</font color> produces <font color=red>fruit</font color>
+- question: 
+  answers: 
+    - embryo
+    - a miniature plant inside a seed
+  wrong_options:
+    - decompose
+    - to break down in small pieces
+- question: 
+  answers: 
+    - fern
+    - a plant that reproduces by spores called sori
+  wrong_options:
+    - embryo
+    - a miniature plant inside a seed
+    - chlorophyll
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+    - decompose
+    - to break down in small pieces
+- question: 
+  answers: 
+    - germination
+    - when a new plant grows from a seed
+  wrong_options:
+    - a plant that reproduces by spores called sori
+    - perennial
+    - a plant with green leaves all year round
+    - photosynthesis
+    - the process by which plants <font color=red>make their own food</font color>
+- question: 
+  answers: 
+    - gymnosperm
+    - a plant with <font color=red>small</font color>, simple <font color=red>flowers</font color> that do <font color=red>not</font color> produces <font color=red>fruit</font color>
+  wrong_options:
+    - perennial
+    - a plant with green leaves all year round
+    - It is also called evergreen
+    - fern
+    - a plant that reproduces by spores called sori
+- question: 
+  answers: 
+    - perennial
+    - a plant with green leaves all year round
+    - It is also called evergreen
+  wrong_options:
+    - a plant with <font color=red>small</font color>, simple <font color=red>flowers</font color> that do <font color=red>not</font color> produces <font color=red>fruit</font color>
+    - the process by which plants <font color=red>make their own food</font color>
+    - <font color=green>green</font color> substance that traps <font color=red>sunlight</font color>
+- question: 
+  answers: 
+    - photosynthesis
+    - the process by which plants <font color=red>make their own food</font color>
+  wrong_options:
+    - pollen
+    - the <font color=red>male spores</font color> that come fom the anther of a flowering plant
+    - respiration
+    - when a living organism <font color=red>takes oxygen</font color> to carry out its liffe process
+- question: 
+  answers: 
+    - pollen
+    - the <font color=red>male spores</font color> that come fom the anther of a flowering plant
+  wrong_options:
+    - photosynthesis
+    - the process by which plants <font color=red>make their own food</font color>
+    - sprout
+    - when a plant grows from the ground
+    - respiration
+    - when a living organism <font color=red>takes oxygen</font color> to carry out its liffe process
+- question: 
+  answers: 
+    - pollination
+    - the process that <font color=red>transfers pollen</font color> from the stamens of one flower to the stigma of another
+    - Insects or the wind often help with this process
+  wrong_options:
+    - raw sap
+    - the water and mineral salt that a plant absorbs through its roots
+    - respiration
+    - when a living organism <font color=red>takes oxygen</font color> to carry out its liffe process
+- question: 
+  answers: 
+    - raw sap
+    - the water and mineral salt that a plant absorbs through its roots
+  wrong_options:
+    - respiration
+    - when a living organism <font color=red>takes oxygen</font color> to carry out its liffe process
+    - pollination
+    - the process that <font color=red>transfers pollen</font color> from the stamens of one flower to the stigma of another
+    - Insects or the wind often help with this process
+
+- question: 
+  answers: 
+    - respiration
+    - when a living organism <font color=red>takes oxygen</font color> to carry out its liffe process
+  wrong_options:
+    - photosynthesis
+    - the process by which plants <font color=red>make their own food</font color>
+    - pollination
+    - the process that <font color=red>transfers pollen</font color> from the stamens of one flower to the stigma of another
+    - Insects or the wind often help with this process
+    - the water and mineral salt that a plant absorbs through its roots
+    - pollination
+    - the process that <font color=red>transfers pollen</font color> from the stamens of one flower to the stigma of another
+
+- question: 
+  answers: 
+    - sprout
+    - when a plant grows from the ground
+  wrong_options:
+    - respiration
+    - when a living organism <font color=red>takes oxygen</font color> to carry out its liffe process
+    - pollination
+    - the process that <font color=red>transfers pollen</font color> from the stamens of one flower to the stigma of another
+    - Insects or the wind often help with this process
+
