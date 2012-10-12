@@ -27,6 +27,8 @@ QLabel#lbl_counter {
 
 QOption {
 	background-color: rgb(255, 255, 255, 150);
+	border-radius: 10px;
+/*    margin-left: 10px;*/
 	font: 12pt;
 }
 </string>
@@ -128,6 +130,9 @@ QOption {
          <property name="text">
           <string>TextLabel</string>
          </property>
+         <property name="indent">
+          <number>10</number>
+         </property>
         </widget>
        </item>
        <item row="3" column="1">
@@ -140,6 +145,9 @@ QOption {
          </property>
          <property name="text">
           <string>TextLabel</string>
+         </property>
+         <property name="indent">
+          <number>10</number>
          </property>
         </widget>
        </item>
@@ -167,6 +175,9 @@ QOption {
          <property name="text">
           <string>TextLabel</string>
          </property>
+         <property name="indent">
+          <number>10</number>
+         </property>
         </widget>
        </item>
        <item row="9" column="1">
@@ -179,6 +190,9 @@ QOption {
          </property>
          <property name="text">
           <string>TextLabel</string>
+         </property>
+         <property name="indent">
+          <number>10</number>
          </property>
         </widget>
        </item>
@@ -193,6 +207,9 @@ QOption {
          <property name="text">
           <string>TextLabel</string>
          </property>
+         <property name="indent">
+          <number>10</number>
+         </property>
         </widget>
        </item>
        <item row="8" column="1">
@@ -206,6 +223,9 @@ QOption {
          <property name="text">
           <string>TextLabel</string>
          </property>
+         <property name="indent">
+          <number>10</number>
+         </property>
         </widget>
        </item>
        <item row="2" column="1">
@@ -218,6 +238,9 @@ QOption {
          </property>
          <property name="text">
           <string>TextLabel</string>
+         </property>
+         <property name="indent">
+          <number>10</number>
          </property>
         </widget>
        </item>
@@ -251,6 +274,9 @@ QOption {
          <property name="text">
           <string>TextLabel</string>
          </property>
+         <property name="indent">
+          <number>10</number>
+         </property>
         </widget>
        </item>
        <item row="5" column="1">
@@ -264,6 +290,9 @@ QOption {
          <property name="text">
           <string>TextLabel</string>
          </property>
+         <property name="indent">
+          <number>10</number>
+         </property>
         </widget>
        </item>
        <item row="4" column="1">
@@ -276,6 +305,9 @@ QOption {
          </property>
          <property name="text">
           <string>TextLabel</string>
+         </property>
+         <property name="indent">
+          <number>10</number>
          </property>
         </widget>
        </item>
