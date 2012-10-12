@@ -95,19 +95,17 @@ void  auto_test::start_game(void)
 void  load_from_file(const std::string& file_name, mtk::list<ae::msg::sub_question>&        list_questions)
 {
     std::ifstream file(file_name.c_str());
+    mtk::list<ae::msg::sub_question>  readed_list_questions;
 
     YAML::Parser parser(file);
 
     YAML::Node doc;
     parser.GetNextDocument(doc);
 
-    doc >>  list_questions;
+    doc >>  readed_list_questions;
     file.close();
-
-    /*for(auto it=list_questions.begin(); it!=list_questions.end(); ++it)
-    {
-        std::cout << *it << std::endl;
-    }*/
+    for(auto it=readed_list_questions.begin(); it!=readed_list_questions.end(); ++it)
+        list_questions.push_back(*it);
 }
 
 
@@ -269,7 +267,7 @@ void auto_test::slot_option_clicked(QOption* option)
 {
     if(option->correct_option == false)
     {
-        option->setStyleSheet("color: red;");
+        option->setStyleSheet("background-color: rgb(255, 200, 200);");
         status.Get().pendings += status.Get().penalizations;
         status.Get().failed += 1;
         update_counter();
