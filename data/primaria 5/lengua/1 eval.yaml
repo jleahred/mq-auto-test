@@ -308,3 +308,97 @@
     - cuaderno
     - transmite
     - ejemplo
+
+    
+    
+- question: 
+  answers: 
+    - sinónimas
+    - palabras con igual o parecido significado
+  wrong_options:
+    - antónimas
+    - palabras con significado opuesto
+ 
+- question: diptongo
+  answers: 
+    - vocal cerrada y otra abierta juntas, o dos cerradas y la cerrada no es tónica
+  wrong_options:
+    - vocal cerrada y otra abierta juntas, o dos cerradas siempre
+    - dos vocales cerradas
+    - dos vocales abiertas
+    - sólo cuando la primera vocal es cerrada y la segunda abierta
+    - sólo cuando la primera vocal es abierta y la segunda cerrada
+
+- question: rotura del diptongo
+  answers: 
+    - cuando la "vocal tónica" en un diptongo es la cerrada
+  wrong_options:
+    - vocal cerrada y otra abierta juntas siempre
+    - dos vocales cerradas
+    - dos vocales abiertas
+    - sólo cuando la primera vocal es cerrada y la segunda abierta
+    - sólo cuando la primera vocal es abierta y la segunda cerrada
+
+- question: diptongo
+  answers: 
+    - c<font color=red>iu</font color>dad
+    - b<font color=red>ui</font color>tre
+    - m<font color=red>uy</font color>
+    - p<font color=red>ei</font color>ne
+    - p<font color=red>ai</font color>saje
+    - andr<font color=red>oi</font color>de
+    - f<font color=red>eu</font color>do
+    - <font color=red>au</font color>reo
+    - p<font color=red>au</font color>sa
+    - t<font color=red>ie</font color>rra
+    - suc<font color=red>ia</font color>
+    - p<font color=red>io</font color>jo
+    - p<font color=red>ue</font color>rta
+    - c<font color=red>ua</font color>dro
+    - resid<font color=red>uo</font color>
+    
+  wrong_options:
+    - <font color=red>ao</font color>rta
+    - <font color=red>aho</font color>ra
+    - hér<font color=red>oe</font color>
+    - alm<font color=red>oha</font color>da
+    - lín<font color=red>ea</font color>
+    - mediterrán<font color=red>eo</font color>
+    
+- question: hiato
+  answers: 
+    - dos vocales abiertas juntas (la h no cuenta)
+  wrong_options:
+    - vocal cerrada y otra abierta juntas, o dos cerradas siempre
+    - dos vocales cerradas
+    - dos vocales abiertas
+    - sólo cuando la primera vocal es cerrada y la segunda abierta
+    - sólo cuando la primera vocal es abierta y la segunda cerrada
+    
+    
+- question: hiato
+  answers: 
+    - <font color=red>ao</font color>rta
+    - <font color=red>aho</font color>ra
+    - hér<font color=red>oe</font color>
+    - alm<font color=red>oha</font color>da
+    - lín<font color=red>ea</font color>
+    - mediterrán<font color=red>eo</font color>
+    
+  wrong_options:
+    - c<font color=red>iu</font color>dad
+    - b<font color=red>ui</font color>tre
+    - m<font color=red>uy</font color>
+    - p<font color=red>ei</font color>ne
+    - p<font color=red>ai</font color>saje
+    - andr<font color=red>oi</font color>de
+    - f<font color=red>eu</font color>do
+    - <font color=red>au</font color>reo
+    - p<font color=red>au</font color>sa
+    - t<font color=red>ie</font color>rra
+    - suc<font color=red>ia</font color>
+    - p<font color=red>io</font color>jo
+    - p<font color=red>ue</font color>rta
+    - c<font color=red>ua</font color>dro
+    - resid<font color=red>uo</font color>
+    

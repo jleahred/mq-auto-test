@@ -260,9 +260,9 @@
     - r
 - question: barr_o
   answers: 
-    - í
-  wrong_options:
     - i
+  wrong_options:
+    - í
 - question: barri_
   answers: 
     - o
