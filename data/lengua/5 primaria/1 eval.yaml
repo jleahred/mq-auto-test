@@ -1,0 +1,310 @@
+- question: 
+  answers: 
+    - conmoción
+    - alteráción del ánimo
+  wrong_options:
+    - Pomposo
+    - hinchado de orgullo
+    - circunspecto
+    - serio
+    - augusta
+    - respetable
+ 
+- question: 
+  answers: 
+    - Pomposo
+    - hinchado de orgullo
+  wrong_options:
+    - conmoción
+    - alteráción del ánimo
+    - circunspecto
+    - serio
+    - augusta
+    - respetable
+
+- question: 
+  answers: 
+    - circunspecto
+    - serio
+  wrong_options:
+    - Pomposo
+    - hinchado de orgullo
+    - conmoción
+    - alteráción del ánimo
+    - augusta
+    - respetable
+
+- question: 
+  answers: 
+    - augusta
+    - respetable
+  wrong_options:
+    - Pomposo
+    - hinchado de orgullo
+    - conmoción
+    - alteráción del ánimo
+    - circunspecto
+    - serio
+
+- question: 
+  answers: 
+    - sílaba tónica
+    - sílaba que pronunciamos más fuerte
+  wrong_options:
+    - sílaba átona
+    - sílabas no tónicas
+
+- question: 
+  answers: 
+    - sílaba átona
+    - sílabas no tónicas
+  wrong_options:
+    - sílaba tónica
+    - sílaba que pronunciamos más fuerte
+
+- question: 
+  answers: 
+    - agudas
+    - sílaba tónica al final
+  wrong_options:
+    - llanas
+    - sílaba tónica penúltima
+    - esdrújulas
+    - sílaba tónica antepenúltima
+    - sobre-esdrújulas
+    - sílaba tónica ante-antepenúltima
+
+- question: 
+  answers: 
+    - llanas
+    - sílaba tónica penúltima
+  wrong_options:
+    - agudas
+    - sílaba tónica al final
+    - esdrújulas
+    - sílaba tónica antepenúltima
+    - sobre-esdrújulas
+    - sílaba tónica ante-antepenúltima
+
+- question: 
+  answers: 
+    - esdrújulas
+    - sílaba tónica antepenúltima
+  wrong_options:
+    - agudas
+    - sílaba tónica al final
+    - llanas
+    - sílaba tónica penúltima
+    - sobre-esdrújulas
+    - sílaba tónica ante-antepenúltima
+
+- question: 
+  answers: 
+    - sobre-esdrújulas
+    - sílaba tónica ante-antepenúltima
+  wrong_options:
+    - agudas
+    - sílaba tónica al final
+    - llanas
+    - sílaba tónica penúltima
+    - esdrújulas
+    - sílaba tónica antepenúltima
+
+- question: aguda
+  answers: 
+    - francés
+    - jazmín
+    - reí
+    - sí
+    - si
+    - contestó
+    - león
+    - camión
+    - senté
+    - más
+    - mas
+    - emisor
+    - receptor
+    - canal
+    - serán
+    - que
+    - feliz
+    - perdiz
+    - precoz
+    - lugar
+    - marqués  (el marqués)
+    - contestó (el que contestó, fue Carlos)
+    - pez
+    - habitó  (él habitó en Guadalajara)
+
+  wrong_options:
+    - llana
+    - marques  (ojalá marques un gol)
+    - cráter
+    - sabana  (donde están los leones)
+    - examen
+    - contesto  (si contesto, gano un premio)
+    - botijo
+    - compañero
+    - compañía
+    - tía
+    - tío
+    - sobrino
+    - abuelo
+    - habito  (yo habito en Madrid)
+    - estaba
+    - comunican
+    - ballenas
+    - embrujado
+    - extraña
+    - estaba
+    - convencida
+    - cuaderno
+    - transmite
+    - ejemplo
+
+    - código
+    - hábito  (el hábito no hace al monje)
+    - sábana  (me tapé con la sábana)
+    - penúltimo
+    - último
+    - esdrújula
+    - tónica
+    - átona
+    - átomo
+    - gramática
+    - máquina
+    - teléfono
+    
+  
+  
+- question: llana
+  answers: 
+    - llana
+    - marques  (ojalá marques un gol)
+    - cráter
+    - sabana  (donde están los leones)
+    - examen
+    - contesto  (si contesto, gano un premio)
+    - botijo
+    - compañero
+    - compañía
+    - tía
+    - tío
+    - sobrino
+    - abuelo
+    - habito  (yo habito en Madrid)
+    - estaba
+    - comunican
+    - ballenas
+    - embrujado
+    - extraña
+    - estaba
+    - convencida
+    - cuaderno
+    - transmite
+    - ejemplo
+   
+  wrong_options:
+    - francés
+    - jazmín
+    - reí
+    - sí
+    - si
+    - contestó
+    - león
+    - camión
+    - senté
+    - más
+    - mas
+    - emisor
+    - receptor
+    - canal
+    - serán
+    - que
+    - feliz
+    - perdiz
+    - precoz
+    - lugar
+    - marqués  (el marqués)
+    - contestó (el que contestó, fue Carlos)
+    - pez
+    - habitó  (él habitó en Guadalajara)
+
+    - código
+    - hábito  (el hábito no hace al monje)
+    - sábana  (me tapé con la sábana)
+    - penúltimo
+    - último
+    - esdrújula
+    - tónica
+    - átona
+    - átomo
+    - gramática
+    - máquina
+    - teléfono
+    
+    
+- question: esdrújulas
+  answers: 
+    - código
+    - hábito  (el hábito no hace al monje)
+    - sábana  (me tapé con la sábana)
+    - penúltimo
+    - último
+    - esdrújula
+    - tónica
+    - átona
+    - átomo
+    - gramática
+    - máquina
+    - teléfono
+  wrong_options:
+    - francés
+    - jazmín
+    - reí
+    - sí
+    - si
+    - contestó
+    - león
+    - camión
+    - senté
+    - más
+    - mas
+    - emisor
+    - receptor
+    - canal
+    - serán
+    - que
+    - feliz
+    - perdiz
+    - precoz
+    - lugar
+    - marqués  (el marqués)
+    - contestó (el que contestó, fue Carlos)
+    - pez
+    - habitó  (él habitó en Guadalajara)
+    - llana
+    - marques  (ojalá marques un gol)
+    - cráter
+    - sabana  (donde están los leones)
+    - examen
+    - contesto  (si contesto, gano un premio)
+    - botijo
+    - compañero
+    - compañía
+    - tía
+    - tío
+    - sobrino
+    - abuelo
+    - habito  (yo habito en Madrid)
+    - estaba
+    - comunican
+    - ballenas
+    - embrujado
+    - extraña
+    - estaba
+    - convencida
+    - cuaderno
+    - transmite
+    - ejemplo

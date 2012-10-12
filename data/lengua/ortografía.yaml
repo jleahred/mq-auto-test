@@ -1,0 +1,827 @@
+﻿- question: cabe_o
+  answers: 
+    - ll
+  wrong_options:
+    - y
+- question: _izo
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: i_a
+  answers: 
+    - b
+  wrong_options:
+    - v
+- question: m_gicas
+  answers: 
+    - á
+  wrong_options:
+    - a
+- question: má_icas
+  answers: 
+    - g
+  wrong_options:
+    - j
+- question: _ubo
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: co_er
+  answers: 
+    - g
+  wrong_options:
+    - j
+- question: exclam_
+  answers: 
+    - ó
+  wrong_options:
+    - o
+- question: e_clamó
+  answers: 
+    - x
+  wrong_options:
+    - s
+- question: _evaron
+  answers: 
+    - ll
+  wrong_options:
+    - y
+- question: lle_aron
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: necesita_a
+  answers: 
+    - b
+  wrong_options:
+    - v
+- question: zana_orias
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: _ipo
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: vol_ió
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _olvió
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: volvi_
+  answers: 
+    - ó
+  wrong_options:
+    - o
+- question: esto_
+  answers: 
+    - y
+  wrong_options:
+    - i
+- question: tu_e
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: toda_ía
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: todav_a
+  answers: 
+    - í
+  wrong_options:
+    - i
+- question: a_ajo
+  answers: 
+    - b
+  wrong_options:
+    - v
+- question: _acer
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: _ambre
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: ham_re
+  answers: 
+    - b
+  wrong_options:
+    - v
+- question: ha_bre
+  answers: 
+    - m
+  wrong_options:
+    - n
+- question: vol_er
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _olver
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _ol_er
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _ente
+  answers: 
+    - g
+  wrong_options:
+    - j
+- question: _efe
+  answers: 
+    - j
+  wrong_options:
+    - g
+- question: ma_or
+  answers: 
+    - y
+  wrong_options:
+    - ll
+- question: _enir
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _alle
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: va_e
+  answers: 
+    - ll
+  wrong_options:
+    - y
+- question: e_amen
+  answers: 
+    - x
+  wrong_options:
+    - s
+- question: posesi_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _entilicio
+  answers: 
+    - g
+  wrong_options:
+    - j
+- question: refr_n
+  answers: 
+    - á
+  wrong_options:
+    - a
+- question: afirmaci_n
+  answers: 
+    - ó
+  wrong_options:
+    - o
+- question: _úmedos
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: h_medos
+  answers: 
+    - ú
+  wrong_options:
+    - u
+- question: prima_era
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: mim_re
+  answers: 
+    - b
+  wrong_options:
+    - v
+- question: ca_po
+  answers: 
+    - m
+  wrong_options:
+    - n
+- question: f_cil
+  answers: 
+    - á
+  wrong_options:
+    - a
+- question: tel_fono
+  answers: 
+    - é
+  wrong_options:
+    - e
+- question: li_ro
+  answers: 
+    - b
+  wrong_options:
+    - v
+- question: _ecino
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: t_o
+  answers: 
+    - í
+  wrong_options:
+    - o
+- question: m_dico
+  answers: 
+    - é
+  wrong_options:
+    - e
+- question: ba_io
+  answers: 
+    - rr
+  wrong_options:
+    - r
+- question: barr_o
+  answers: 
+    - í
+  wrong_options:
+    - i
+- question: barri_
+  answers: 
+    - o
+  wrong_options:
+    - ó
+- question: _enenosas
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: li_ero
+  answers: 
+    - g
+  wrong_options:
+    - j
+- question: p_lido
+  answers: 
+    - á
+  wrong_options:
+    - a
+- question: co_pleto
+  answers: 
+    - m
+  wrong_options:
+    - n
+- question: t_mido
+  answers: 
+    - í
+  wrong_options:
+    - i
+- question: nutriti_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: su_o
+  answers: 
+    - y
+  wrong_options:
+    - ll
+- question: cue_a
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _ocico
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: _igilase
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _ombro
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: vivi_
+  answers: 
+    - ó
+  wrong_options:
+    - o
+- question: _i_ió
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _oras
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: _alcón
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: a_e
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _ilillo
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: hili_o
+  answers: 
+    - ll
+  wrong_options:
+    - y
+- question: _e_er
+  answers: 
+    - b
+  wrong_options:
+    - v
+- question: pensati_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: be_é
+  answers: 
+    - b
+  wrong_options:
+    - v
+- question: bre_e
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: vi_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: inofensi_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: televisi_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: educati_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: deporti_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: noci_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: afecti_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: bra_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: atracti_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: co_er
+  answers: 
+    - g
+  wrong_options:
+    - j
+- question: cal_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _ajito
+  answers: 
+    - b
+  wrong_options:
+    - v
+- question: ba_ito
+  answers: 
+    - j
+  wrong_options:
+    - g
+- question: _ojalata
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: _enio
+  answers: 
+    - g
+  wrong_options:
+    - j
+- question: lla_e
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _ave
+  answers: 
+    - ll
+  wrong_options:
+    - y
+- question: la_abo
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: lava_o
+  answers: 
+    - b
+  wrong_options:
+    - v
+- question: _inieron
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: _ablaba
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: dorm_an
+  answers: 
+    - í
+  wrong_options:
+    - i
+- question: _eía
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: ve_a
+  answers: 
+    - í
+  wrong_options:
+    - i
+- question: lav_
+  answers: 
+    - é
+    - e
+    - a
+  wrong_options:
+    - á
+- question: ayer lav_
+  answers: 
+    - é
+  wrong_options:
+    - e
+- question: ojalá él lav_
+  answers: 
+    - e
+  wrong_options:
+    - é
+- question: la_é
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: le_eron
+  answers: 
+    - y
+  wrong_options:
+    - ll
+- question: disminu_ó
+  answers: 
+    - y
+  wrong_options:
+    - ll
+- question: disminull_
+  answers: 
+    - ó
+  wrong_options:
+    - o
+- question: intu_endo
+  answers: 
+    - y
+  wrong_options:
+    - ll
+- question: o_ó
+  answers: 
+    - y
+  wrong_options:
+    - ll
+- question: oy_
+  answers: 
+    - ó
+  wrong_options:
+    - o
+- question: _ollo
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: ho_o
+  answers: 
+    - ll
+  wrong_options:
+    - y
+- question: influ_e
+  answers: 
+    - y
+  wrong_options:
+    - ll
+- question: ho_o  o_ó
+  answers: 
+    - ll  y
+  wrong_options:
+    - y  ll
+    - y  y
+    - ll  ll
+- question: _uír
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: hu_r
+  answers: 
+    - í
+  wrong_options:
+    - i
+- question: _uir
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: hu_r
+  answers: 
+    - i
+  wrong_options:
+    - í
+- question: jó_enes
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: j_venes
+  answers: 
+    - ó
+  wrong_options:
+    - o
+- question: cauti_a_a
+  answers: 
+    - v  b
+  wrong_options:
+    - v  v
+    - b  b
+    - b  v
+- question: _xito
+  answers: 
+    - é
+  wrong_options:
+    - e
+- question: _a_itantes
+  answers: 
+    - h  b
+  wrong_options:
+    - h  v
+    - _  v
+    - _  b
+- question: li_eraron
+  answers: 
+    - b
+  wrong_options:
+    - v
+- question: sal_o
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: sal_ó
+  answers: 
+    - v
+  wrong_options:
+    - b
+- question: cantar_a
+  answers: 
+    - í
+  wrong_options:
+    - i
+- question: cant_
+  answers: 
+    - é
+  wrong_options:
+    - e
+- question: lavar_
+  answers: 
+    - é
+  wrong_options:
+    - e
+- question: lavar_a
+  answers: 
+    - í
+  wrong_options:
+    - i
+- question: lav_
+  answers: 
+    - é
+  wrong_options:
+    - e
+- question: la__
+  answers: 
+    - vé
+    - ve
+    - va
+  wrong_options:
+    - be
+    - ba
+- question: la_a_a
+  answers: 
+    - v  b
+  wrong_options:
+    - v  v
+    - b  b
+    - b  v
+- question: re_es
+  answers: 
+    - y
+  wrong_options:
+    - ll
+- question: re_
+  answers: 
+    - y
+    - í
+  wrong_options:
+    - i
+- question: _o_ador
+  answers: 
+    - b  rr
+  wrong_options:
+    - v  rr
+    - b  r
+    - v  r
+- question: ti_eras
+  answers: 
+    - j
+  wrong_options:
+    - g
+- question: _imitar
+  answers: 
+    - _
+  wrong_options:
+    - h
+- question: _usar
+  answers: 
+    - _
+  wrong_options:
+    - h
+- question: _estoy
+  answers: 
+    - _
+  wrong_options:
+    - h
+- question: ¿por qu_?
+  answers: 
+    - é
+  wrong_options:
+    - e
+- question: ¿por___?
+  answers: 
+    - ¿por qué?
+  wrong_options:
+    - ¿porqué?
+    - ¿porque?
+- question: co_prue_a
+  answers: 
+    - m  b
+  wrong_options:
+    - m  v
+    - n  v
+    - n  b
+- question: canci_n
+  answers: 
+    - ó
+  wrong_options:
+    - o
+- question: man_as
+  answers: 
+    - í
+  wrong_options:
+    - i
+- question: _e_eréis
+  answers: 
+    - b  b
+  wrong_options:
+    - v  b
+    - b  v
+    - v  v
+- question: _e_er
+  answers: 
+    - b  b
+  wrong_options:
+    - v  b
+    - b  v
+    - v  v
+- question: _erramienta
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: _e_amienta
+  answers: 
+    - h  rr
+  wrong_options:
+    - h  r
+    - _  rr
+    - _  r
+
+- question: e_tensa
+  answers: 
+    - x
+  wrong_options:
+    - s
+- question: ru_ido
+  answers: 
+    - g
+  wrong_options:
+    - j
+- question: _eló
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: _ielo
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: _elado
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: _ielo _eló _elado
+  answers: 
+    - h
+  wrong_options:
+    - _
+- question: tu___
+  answers: 
+    - mbó
+    - mbo
+  wrong_options:
+    - mvó
+    - nbó
+    - nvó
+    - mvo
+    - nbo
+    - nvo
+- question: él se tumb_
+  answers: 
+    - ó
+  wrong_options:
+    - o
+- question: e_trajo
+  answers: 
+    - x
+  wrong_options:
+    - s
+- question: _ocurría
+  answers: 
+    - _
+  wrong_options:
+    - h
