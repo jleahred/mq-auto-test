@@ -104,10 +104,10 @@ void  load_from_file(const std::string& file_name, mtk::list<ae::msg::sub_questi
     doc >>  list_questions;
     file.close();
 
-    for(auto it=list_questions.begin(); it!=list_questions.end(); ++it)
+    /*for(auto it=list_questions.begin(); it!=list_questions.end(); ++it)
     {
         std::cout << *it << std::endl;
-    }
+    }*/
 }
 
 
@@ -142,7 +142,7 @@ bool  auto_test::load_questions(void)
     {
         QModelIndex  index = selections.at(i);
         if(file_system_model->isDir(index) == false)
-            load_from_file(file_system_model->filePath(index).toStdString(), list_questions);
+            load_from_file(file_system_model->filePath(index).toUtf8().data(), list_questions);
     }
     if(list_questions.size() == 0)
     {
@@ -245,7 +245,7 @@ void  auto_test::configure_ui_options(const  ae::msg::sub_question&  question_in
     unsigned number_questions = (unsigned(status.Get().options_per_question)<question_info.wrong_options.size()
                                  ?
                                      unsigned(status.Get().options_per_question)
-                                   : question_info.wrong_options.size());
+                                   : question_info.wrong_options.size()+1);
     unsigned pos_right_question = mtk::rand() % number_questions;
     all_options_vector.push_back(right_answer);
 

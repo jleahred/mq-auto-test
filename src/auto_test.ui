@@ -24,7 +24,9 @@ QLabel#lbl_counter {
 	color: rgb(0, 128, 128)
 }
 
+
 QOption {
+	background-color: rgb(255, 255, 255, 150);
 	font: 12pt;
 }
 </string>
