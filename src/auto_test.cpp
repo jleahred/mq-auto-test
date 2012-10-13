@@ -240,7 +240,7 @@ void  auto_test::configure_ui_options(const  ae::msg::sub_question&  question_in
         std::swap(all_options_vector[index1], all_options_vector[index2]);
     }
 
-    unsigned number_questions = (unsigned(status.Get().options_per_question)<question_info.wrong_options.size()
+    unsigned number_questions = (unsigned(status.Get().options_per_question)<(question_info.wrong_options.size()+1)
                                  ?
                                      unsigned(status.Get().options_per_question)
                                    : question_info.wrong_options.size()+1);

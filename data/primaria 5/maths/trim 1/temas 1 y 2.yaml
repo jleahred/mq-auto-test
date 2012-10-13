@@ -497,3 +497,119 @@
     - 1+A
     - 0*A
     - 0*B
+- question: ¿Cuántos millares hay en dos millones y medio?
+  answers: 
+    - 2500
+    - dos mil quinientos
+  wrong_options:
+    - dos y medio
+    - 2.5
+    - 25
+    - veinticinco
+    - doscientos cincuenta
+- question: ¿Cuántas centenas hay en tres mil unidades?
+  answers: 
+    - treinta
+  wrong_options:
+    - tres
+    - trescientas
+    - tres mil
+- question: ¿Cuántas decenas de millar hay en medio millón?
+  answers: 
+    - cincuenta
+  wrong_options:
+    - cinco
+    - quinientas
+    - cinco mil
+    - cinco millones
+    - medio millón
+- question: ¿Cuántas decenas de millar hay en dos millones y medio?<br><font color=red>2.50</font color>0.000
+  answers: 
+    - 250
+    - doscientas cincuenta
+  wrong_options:
+    - veinticinco
+    - dos mil quinientas
+    - dos mil cincuenta
+    - dos y medio
+
+- question: ¿Cuántas centenas de millar hay en veinticinco millones y cuarto?<br><font color=red>25.2</font color>500.000
+  answers: 
+    - doscientas cincuenta y dos y media
+    - 252.5
+  wrong_options:
+    - doscientas cincuenta y dos
+    - dos mil quinientas veinticinco
+    - veinticinco y cuarto
+    - veinticinco y medio
+
+- question: ¿Cuántas centenas hay en <font color=red>423.3</font color>00?
+  answers: 
+    - cuatro mil doscientas treinta y tres
+    - 4.233
+  wrong_options:
+    - cuatrocientas veintitres
+    - cuatrocientas veintitres coma tres
+    - 423.3
+    - 42.33
+    - cuarenta y dos coma treinta y tres
+    
+
+- question: ¿Cuántas decenas hay en 435.625?
+  answers: 
+    - cuarenta y tres mil quinientas sesenta y dos coma 5
+    - 43.562'5
+  wrong_options:
+    - cuatro mil trescientas cincuenta y seis y cuarto
+    - 4.356'25
+
+- question: ¿Cuántas decenas de millar hay en veintitres millones y medio?<br><font color=red>23.50</font color>0.000
+  answers: 
+    - 2.350
+    - dos mil trescientas cincuenta
+  wrong_options:
+    - veintitres y medio
+    - 23.5
+    - dos mil trescientas
+    - dos mil cincuenta
+    - dos coma 35
+    - 2.300
+    - 2.35
+
+- question: ¿Cuántas centenas de millar hay en quince millones y cuarto?<br><font color=red>15.2</font color>500.000
+  answers: 
+    - ciento cincuenta y dos y media
+    - 152.5
+  wrong_options:
+    - ciento cincuenta y dos
+    - mil quinientas veinticinco
+    - doscientas cincuenta y dos
+    - veinticinco y medio
+
+- question: ¿Cuántas centenas hay en <font color=red>831.4</font color>00?
+  answers: 
+    - ochocientas treinta y una coma 4
+    - 831'4
+  wrong_options:
+    - ocho mil trescientas treinta y una coma cuatro
+    - ocho mil trescientas catorce
+    - 8.331'4
+    - 8.314
+    
+
+- question: ¿Cuántas decenas hay en 872.965?
+  answers: 
+    - ochenta y siete mil doscientas noventa y seis y media
+    - 87.296'5
+  wrong_options:
+    - 87.296'25
+    - 87.296
+    - 87.269'5
+    - ochocientas setenta y dos mil, novecientas sesenta y cinco
+    - 872.965
+    - ocho mil setecientos veintinueve con sesenta y cinco
+    - 8.729'65
+    - ocho millones setecientos veintinueve mil, seiscientas cincuenta
+    - 8.729.650
+
+    
