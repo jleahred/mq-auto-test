@@ -1,0 +1,990 @@
+- question: sinónimo
+  answers: 
+    - significa lo mismo
+  wrong_options:
+    - antónimo
+    - significa lo opuesto
+    - aguda
+    - dos palabras iguales
+    - riman
+    - polisémica
+ 
+
+- question: antónimo
+  answers: 
+    - significan lo opuesto
+  wrong_options:
+    - sinónimo
+    - significan lo mismo
+    - aguda
+    - dos palabras iguales
+    - riman
+    - polisémica
+
+- question:
+  answers: 
+    - palpó
+    - tocó
+  wrong_options:
+    - pelo
+    - cabello
+    - emocionó
+    - alegró
+    - tiró
+    - lanzó
+    - tendió
+    - tumbó
+
+- question:
+  answers: 
+    - pelo
+    - cabello
+  wrong_options:
+    - emocionó
+    - alegró
+    - tiró
+    - lanzó
+    - tendió
+    - tumbó
+    - palpó
+    - tocó
+
+- question:
+  answers: 
+    - emocionó
+    - alegró
+  wrong_options:
+    - tiró
+    - lanzó
+    - tendió
+    - tumbó
+    - palpó
+    - tocó
+    - pelo
+    - cabello
+
+- question:
+  answers: 
+    - tiró
+    - lanzó
+  wrong_options:
+    - tendió
+    - tumbó
+    - palpó
+    - tocó
+    - pelo
+    - cabello
+    - emocionó
+    - alegró
+    
+- question:
+  answers: 
+    - tendió
+    - tumbó
+  wrong_options:
+    - palpó
+    - tocó
+    - pelo
+    - cabello
+    - emocionó
+    - alegró
+    - tiró
+    - lanzó
+    
+- question:
+  answers: 
+    - acoger
+    - albergar
+    - admitir en su casa a otra u otras personas
+  wrong_options:
+    - amedrentar
+    - atemorizar
+    - infundir miedo, terror
+    - suministrar
+    - abastecer
+    - Proveer de víveres u otras cosas necesarias
+
+- question:
+  answers: 
+    - amedrentar
+    - atemorizar
+    - infundir miedo, terror
+  wrong_options:
+    - acoger
+    - albergar
+    - admitir en su casa a otra u otras personas
+    - suministrar
+    - abastecer
+    - Proveer de víveres u otras cosas necesarias
+
+- question:
+  answers: 
+    - suministrar
+    - abastecer
+    - Proveer de víveres u otras cosas necesarias
+  wrong_options:
+    - acoger
+    - albergar
+    - admitir en su casa a otra u otras personas
+    - amedrentar
+    - atemorizar
+    - infundir miedo, terror
+
+
+- question:
+  answers: 
+    - calmar
+    - tranquilizar
+    - sosegar
+    - apaciguar
+    - amansar
+    - aplacar
+  wrong_options:
+    - irritar
+    - excitar
+    - acalorar
+    - soliviantar
+    - desesperar
+    
+
+- question:
+  answers: 
+    - coche
+    - automóvil
+  wrong_options:
+    - andar
+    - caminar
+    - sano
+    - saludable
+    - escogí
+    - elegí
+    - trozo
+    - cacho
+    - compró
+    - adquirió
+    - regalo
+    - obsequio
+    - pidió
+    - solicitó
+    - habilidad
+    - destreza
+    
+- question:
+  answers: 
+    - andar
+    - caminar
+  wrong_options:
+    - coche
+    - automóvil
+    - sano
+    - saludable
+    - escogí
+    - elegí
+    - trozo
+    - cacho
+    - compró
+    - adquirió
+    - regalo
+    - obsequio
+    - pidió
+    - solicitó
+    - habilidad
+    - destreza
+    
+- question:
+  answers: 
+    - sano
+    - saludable
+  wrong_options:
+    - coche
+    - automóvil
+    - andar
+    - caminar
+    - escogí
+    - elegí
+    - trozo
+    - cacho
+    - compró
+    - adquirió
+    - regalo
+    - obsequio
+    - pidió
+    - solicitó
+    - habilidad
+    - destreza
+    
+- question:
+  answers: 
+    - escogí
+    - elegí
+  wrong_options:
+    - coche
+    - automóvil
+    - andar
+    - caminar
+    - sano
+    - saludable
+    - trozo
+    - cacho
+    - compró
+    - adquirió
+    - regalo
+    - obsequio
+    - pidió
+    - solicitó
+    - habilidad
+    - destreza
+    
+- question:
+  answers: 
+    - trozo
+    - cacho
+  wrong_options:
+    - coche
+    - automóvil
+    - andar
+    - caminar
+    - sano
+    - saludable
+    - escogí
+    - elegí
+    - compró
+    - adquirió
+    - regalo
+    - obsequio
+    - pidió
+    - solicitó
+    - habilidad
+    - destreza
+    
+- question:
+  answers: 
+    - compró
+    - adquirió
+  wrong_options:
+    - coche
+    - automóvil
+    - andar
+    - caminar
+    - sano
+    - saludable
+    - escogí
+    - elegí
+    - trozo
+    - cacho
+    - regalo
+    - obsequio
+    - pidió
+    - solicitó
+    - habilidad
+    - destreza
+    
+- question:
+  answers: 
+    - regalo
+    - obsequio
+  wrong_options:
+    - coche
+    - automóvil
+    - andar
+    - caminar
+    - sano
+    - saludable
+    - escogí
+    - elegí
+    - trozo
+    - cacho
+    - compró
+    - adquirió
+    - pidió
+    - solicitó
+    - habilidad
+    - destreza
+    
+- question:
+  answers: 
+    - pidió
+    - solicitó
+  wrong_options:
+    - coche
+    - automóvil
+    - andar
+    - caminar
+    - sano
+    - saludable
+    - escogí
+    - elegí
+    - trozo
+    - cacho
+    - compró
+    - adquirió
+    - regalo
+    - obsequio
+    - habilidad
+    - destreza
+    
+- question:
+  answers: 
+    - habilidad
+    - destreza
+  wrong_options:
+    - coche
+    - automóvil
+    - andar
+    - caminar
+    - sano
+    - saludable
+    - escogí
+    - elegí
+    - trozo
+    - cacho
+    - compró
+    - adquirió
+    - regalo
+    - obsequio
+    - pidió
+    - solicitó
+    
+
+- question:
+  answers: 
+    - aguda
+    - llevan tilde cuando acaban en n, s o vocal
+    - la sílaba tónica es la última
+  wrong_options:
+    - llana
+    - no llevan tilde cuando acaban n, s o vocal
+    - la sílaba tónica está en el penúltimo lugar
+    - trozo
+    - árbol
+    - coche
+    - esdrújula
+    - llevan tilde siempre
+    - la sílaba tónica es la antepenúltima
+    - células
+    - útiles
+    - dóciles
+
+- question:
+  answers: 
+    - llana
+    - no llevan tilde cuando acaban n, s o vocal
+    - la sílaba tónica está en el penúltimo lugar
+  wrong_options:
+    - aguda
+    - llevan tilde cuando acaban en n, s o vocal
+    - la sílaba tónica es la última
+    - pidió
+    - león
+    - caminar
+    - esdrújula
+    - llevan tilde siempre
+    - la sílaba tónica es la antepenúltima
+    - células
+    - útiles
+    - dóciles
+
+- question:
+  answers: 
+    - esdrújula
+    - llevan tilde siempre
+    - la sílaba tónica es la antepenúltima
+  wrong_options:
+    - aguda
+    - llevan tilde cuando acaban en n, s o vocal
+    - la sílaba tónica es la última
+    - pidió
+    - león
+    - caminar
+    - llana
+    - no llevan tilde cuando acaban n, s o vocal
+    - la sílaba tónica está en el penúltimo lugar
+    - trozo
+    - árbol
+    - coche
+
+
+- question: pon la tilde si corresponde a   'aguila'
+  answers: 
+    - águila
+  wrong_options:
+    - aguila
+    - aguíla
+    - aguilá
+    
+    
+    
+- question: pon la tilde si corresponde a   'cernicalo'
+  answers: 
+    - cernícalo
+  wrong_options:
+    - cernicalo
+    - cérnicalo
+    - cernicaló
+
+- question: pon la tilde si corresponde a   'tiburon'
+  answers: 
+    - tiburón
+  wrong_options:
+    - tiburon
+    - tíburon
+  
+- question: pon la tilde si corresponde a   'mastin'
+  answers: 
+    - mastín
+  wrong_options:
+    - mastin
+    
+- question: pon la tilde si corresponde a   'vibora'
+  answers: 
+    - víbora
+  wrong_options:
+    - vibora
+    - viborá
+    
+- question: pon la tilde si corresponde a   'murcielago'
+  answers: 
+    - murciélago
+  wrong_options:
+    - murcielago
+    - murcielagó
+    - múrcielago
+    
+- question: pon la tilde si corresponde a   'hipopotamo'
+  answers: 
+    - hipopótamo
+  wrong_options:
+    - hipopotamo
+    - hipopotamó
+    - hipópotamo
+    
+- question: pon la tilde si corresponde a   'condor'
+  answers: 
+    - cóndor
+  wrong_options:
+    - condor
+- question: pon la tilde si corresponde a   'delfin'
+  answers: 
+    - delfín
+  wrong_options:
+    - delfin
+    
+- question: pon la tilde si corresponde a   'camaleon'
+  answers: 
+    - camaleón
+  wrong_options:
+    - camaleon
+    - camaléon
+    - cámaleon
+    
+- question: pon la tilde si corresponde a   'chimpance'
+  answers: 
+    - chimpancé
+  wrong_options:
+    - chimpance
+    - chimpánce
+    - chímpance
+    
+- question: pon la tilde si corresponde a   'jabali'
+  answers: 
+    - jabalí
+  wrong_options:
+    - jabali
+    - jábali
+- question: pon la tilde si corresponde a   'ñandu'
+  answers: 
+    - ñandú
+  wrong_options:
+    - ñandu
+    - ñándu
+- question: pon la tilde si corresponde a   'colibri'
+  answers: 
+    - colibrí
+  wrong_options:
+    - colibri
+    - cólibri
+- question: pon la tilde si corresponde a   'pelicano'
+  answers: 
+    - pelícano
+  wrong_options:
+    - pelicano
+    - pelicanó
+    - pélicano
+- question: pon la tilde si corresponde a   'escorpion'
+  answers: 
+    - escorpión
+  wrong_options:
+    - escorpion
+    - escorpíon
+    - éscorpion
+- question: pon la tilde si corresponde a   'hamster'
+  answers: 
+    - hámster
+  wrong_options:
+    - hamster
+
+- question: las palabras antónimas se pueden formar con prefijos i- in- des-
+  answers: 
+    - sí
+  wrong_options:
+    - no
+
+- question: las palabras antónimas se pueden formar con prefijos i- in- des- im-
+  answers: 
+    - sí
+  wrong_options:
+    - no
+
+- question: antónimo ordenar
+  answers: 
+    - desordernar
+  wrong_options:
+    - iordenar
+    - inordenar
+    - imordenar
+
+  
+  
+- question: antónimo lógico
+  answers :
+    - ilógico
+  wrong_options:
+    - inlógico
+    - imlógico
+    - deslógico
+
+- question: antónimo creíble
+  answers:
+    - increíble
+  wrong_options:
+    - icreíble
+    - imcreíble
+    - descreíble
+    
+
+- question: antónimo permeable
+  answers:
+    - impermeable
+  wrong_options:
+    - ipermeable
+    - inpermeable
+    - despermeable
+    
+
+- question: antónimo abrochado
+  answers:
+    - desabrochado
+  wrong_options:
+    - iabrochado
+    - inabrochado
+    - imabrochado
+    
+
+- question: antónimo adecuado
+  answers:
+    - inadecuado
+  wrong_options:
+    - iadecuado
+    - imadecuado
+    - desadecuado
+    
+
+- question: antónimo legal
+  answers:
+    - ilegal
+  wrong_options:
+    - inlegal
+    - imlegal
+    - deslegal
+    
+
+- question: antónimo hidratado
+  answers:
+    - deshidratado
+  wrong_options:
+    - ihidratado
+    - inhidratado
+    - imhidratado
+    
+
+- question: antónimo relevante
+  answers:
+    - irrelevante
+  wrong_options:
+    - irelevante
+    - imrelevante
+    - desrelevante
+    
+
+- question: antónimo cauto
+  answers:
+    - incauto
+  wrong_options:
+    - icauto
+    - imcauto
+    - descauto
+    
+
+- question: antónimo activado
+  answers:
+    - desactivado
+  wrong_options:
+    - iactivado
+    - inactivado
+    - imactivado
+    
+
+- question: antónimo legible
+  answers:
+    - ilegible
+  wrong_options:
+    - inlegible
+    - imlegible
+    - deslegible
+    
+
+- question: antónimo tolerante
+  answers:
+    - intolerante
+  wrong_options:
+    - itolerante
+    - imtolerante
+    - destolerante
+    
+
+- question: antónimo conocer
+  answers:
+    - desconocer
+  wrong_options:
+    - iconocer
+    - inconocer
+    - imconocer
+
+    
+- question: <font color=green>Los leones</font color> confunden las rayas de las cebras
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: Los leones <font color=green>confunden</font color> las rayas de las cebras
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: Los leones <font color=green>confunden las rayas de las cebras</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    
+
+
+
+
+- question: <font color=green>El vecino</font color> trabaja de noche durante la semana
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: El vecino <font color=green>trabaja</font color> de noche durante la semana
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: El vecino <font color=green>trabaja de noche durante la semana</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    
+
+
+- question: Durante la semana <font color=green>el vecino</font color> trabaja de noche
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: Durante la semana el vecino <font color=green>trabaja</font color> de noche
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: <font color=green>Durante la semana </font color>el vecino <font color=green>trabaja de noche</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    
+
+
+- question: Por la tarde <font color=green>mis padres</font color> fueron al cine
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: Por la tarde mis padres <font color=green>fueron</font color> al cine
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: <font color=green>Por la tarde </font color>mis padres <font color=green>fueron al cine</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    
+
+
+- question: <font color=green>El fontanero</font color> arregló la avería ayer
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: El fontanero <font color=green>arregló</font color> la avería ayer
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: El fontanero <font color=green>arregló la avería ayer</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    
+
+
+- question: <font color=green>Elisa</font color> acabó el trabajo antes de cenar
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: Elisa <font color=green>acabó</font color> el trabajo antes de cenar
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: Elisa <font color=green>acabó el trabajo antes de cenar</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    
+
+
+- question: <font color=green>Álvaro</font color> recibió el lunes un paquete urgente en la ofinica
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: Álvaro <font color=green>recibió</font color> el lunes un paquete urgente en la ofinica
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: Álvaro <font color=green>recibió el lunes un paquete urgente en la ofinica</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    
+
+
+
+
+- question: <font color=green>El vecino</font color> trabaja de noche durante la semana
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: El vecino <font color=green>trabaja</font color> de noche durante la semana
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: El vecino <font color=green>trabaja de noche durante la semana</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    
+
+
+- question: Durante la semana <font color=green>el vecino</font color> trabaja de noche
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: Durante la semana</font color> el vecino <font color=green>trabaja</font color> de noche
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: <font color=green>Durante la semana </font color>el vecino <font color=green>trabaja de noche</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    
+
+
+- question: Por la tarde <font color=green>mis padres</font color> fueron al cine
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: Por la tarde mis padres <font color=green>fueron</font color> al cine
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: <font color=green>Por la tarde </font color>mis padres <font color=green>fueron al cine</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    
+
+
+- question: <font color=green>El fontanero</font color> arregló la avería ayer
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: El fontanero <font color=green>arregló</font color> la avería ayer
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: El fontanero <font color=green>arregló la avería ayer</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    
+
+
+- question: <font color=green>Elisa</font color> acabó el trabajo antes de cenar
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: Elisa <font color=green>acabó</font color> el trabajo antes de cenar
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: Elisa <font color=green>acabó el trabajo antes de cenar</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    
+
+
+- question: <font color=green>Álvaro</font color> recibió el lunes un paquete urgente en la ofinica
+  answers:
+    - sujeto
+  wrong_options:
+    - verbo
+    - predicado
+    
+
+- question: Álvaro <font color=green>recibió</font color> el lunes un paquete urgente en la ofinica
+  answers:
+    - verbo
+  wrong_options:
+    - sujeto
+    - predicado
+    
+
+- question: Álvaro <font color=green>recibió el lunes un paquete urgente en la ofinica</font color>
+  answers:
+    - predicado
+  wrong_options:
+    - sujeto
+    - verbo
+    

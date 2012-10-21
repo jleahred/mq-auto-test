@@ -2,10 +2,9 @@
   answers: 
     - cuatrocientos cincuenta y cinco mil doscientos tres
     - 455.203
-    - aproximadamente cuatrocientos seSenta mil
     - aproximadamente cuatrocientos cincuenta y cinco mil
   wrong_options:
-    - 455.202
+    - 455.207
     - 455.204
     - 455.302
     - 456.203
@@ -123,10 +122,10 @@
     - aproximadamente 23 millones doscientas mil
   wrong_options:
     - veintitres millones trescientos cuarenta y cinco mil cientro treinta y dos
-    - veintitres millones doscientos cuarenta y dos mil cientro treinta y dos
+    - veintitres millones doscientos cuarenta y seis mil cientro treinta y dos
     - veintitres millones doscientos cuarenta y cinco mil treinta y dos
     - treinta y cinco millones doscientos cuarenta y cinco mil cientro treinta y dos
-    - veintitres millones doscientos cuarenta y cuatro mil cientro treinta y dos
+    - veintitres millones doscientos cuarenta y ocho mil cientro treinta y dos
     - noventa y ocho millones doscientos cuarenta y cinco mil cientro treinta
     - veintitres millones doscientos cuarenta y cinco mil cientro treinta y tres
     - casi 23 millones
@@ -135,8 +134,8 @@
     - aproximadamente 23 millones trescientas mil
 - question: 
   answers: 
-    - 598.341
-    - quinientos noventa y ocho mil trescientos cuarenta y uno
+    - 598.349
+    - quinientos noventa y ocho mil trescientos cuarenta y nueve
     - casi seiscientas mil
     - aproximadamente seiscientos mil
     - algo menos de seiscientos mil
@@ -533,7 +532,7 @@
     - dos mil cincuenta
     - dos y medio
 
-- question: ¿Cuántas centenas de millar hay en veinticinco millones y cuarto?<br><font color=red>25.2</font color>500.000
+- question: ¿Cuántas centenas de millar hay en veinticinco millones y cuarto?<br><font color=red>25.2</font color>50.000
   answers: 
     - doscientas cincuenta y dos y media
     - 252.5
@@ -588,13 +587,13 @@
 
 - question: ¿Cuántas centenas hay en <font color=red>831.4</font color>00?
   answers: 
+    - ocho mil trescientas catorce
+    - 8.314
+  wrong_options:
     - ochocientas treinta y una coma 4
     - 831'4
-  wrong_options:
     - ocho mil trescientas treinta y una coma cuatro
-    - ocho mil trescientas catorce
     - 8.331'4
-    - 8.314
     
 
 - question: ¿Cuántas decenas hay en 872.965?
