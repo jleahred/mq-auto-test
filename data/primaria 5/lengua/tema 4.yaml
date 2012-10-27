@@ -1,0 +1,419 @@
+- question: hiato
+  answers: 
+    - dos vocales juntas pero en diferentes sílabas
+    - dos vocales abiertas juntas
+    - un diptongo roto
+  wrong_options:
+    - dos vocales separadas por una h (siempre)
+    - dos vocales juntas
+    - dos vocales cerradas juntas
+    - una vocal cerrada y otra abierta juntas
+
+ 
+- question: hiato
+  answers: 
+    - paseo
+    - María
+    - toalla
+    - tebeo
+    - hacía
+    - pedalear
+    - paella
+  wrong_options:
+    - anuncio
+    - inquietud
+    - lago
+    - abierta
+    
+ 
+- question: clase de sustantivos
+  answers: 
+    - comunes
+    - propios
+  wrong_options:
+    - suyos
+    - míos
+    - grandes
+    - pequeños
+    - adjetivos
+    - adverbios
+
+- question: un sustantivo son
+  answers: 
+    - palabras con las que nombramos a personas o animales, objetos...
+    - palabras con las que nombramos
+  wrong_options:
+    - palabras con las que describimos cosas
+    - palabras que reflejan acciones
+    - palabras grandes
+    - palabras esdrújulas
+    - cosas para fastidiar a los niños que van al cole
+
+- question:
+  answers: 
+    - sustantivo común
+    - son palabras que se utilizan para nombrar objetos
+  wrong_options:
+    - son palabras que se utilizan para nombrar personas
+    - son palabras que se utilizan para nombrar países
+
+- question: sustantivo común
+  answers: 
+    - planta
+    - televisión
+    - coche
+    - perro
+    - camarera
+    - señor
+    - libro
+    - mesa
+    - silla
+    - reloj
+    - bici
+    - basurero
+    - lámpara
+    - pizarra
+    - casa
+    - hotel
+    - plato
+    - pared
+    - futbolista
+  wrong_options:
+    - Antonio
+    - Juan Antonio
+    - Carlos
+    - Juan Carlos
+    - Juan
+    - Fernando
+    - Cataluña
+    - Amarillo
+    - Verde
+    - grande
+    - corriendo
+    - jugando
+    - riéndo
+    - guapo
+    - feo
+    - antipático
+    - simpático
+    - durmiendo
+    
+- question: sustantivo propio
+  answers: 
+    - Antonio
+    - Juan Antonio
+    - Carlos
+    - Juan Carlos
+    - Juan
+    - Fernando
+    - Cataluña
+    - Zaragoza
+  wrong_options:
+    - planta
+    - televisión
+    - coche
+    - perro
+    - camarera
+    - señor
+    - libro
+    - mesa
+    - silla
+    - reloj
+    - bici
+    - basurero
+    - lámpara
+    - pizarra
+    - casa
+    - hotel
+    - plato
+    - pared
+    - Amarillo
+    - Verde
+    - grande
+    - corriendo
+    - jugando
+    - riéndo
+    - guapo
+    - feo
+    - antipático
+    - simpático
+    - durmiendo
+    
+- question: un adjetivo es
+  answers: 
+    - una palabra que se utiliza para describir un objeto
+  wrong_options:
+    - sustantivo común
+    - son palabras que se utilizan para nombrar objetos
+    - son palabras que se utilizan para nombrar personas
+    - son palabras que se utilizan para nombrar países
+    - palabras que reflejan acciones
+    - palabras grandes
+    - palabras esdrújulas
+    - cosas para fastidiar a los niños que van al cole
+        
+        
+- question: adjetivo
+  answers: 
+    - Amarillo
+    - Verde
+    - grande
+    - guapo
+    - feo
+    - antipático
+    - simpático
+    - pequeño
+    - rápido
+    - listo
+    - inteligente
+    - lento
+  wrong_options:
+    - Antonio
+    - Juan Antonio
+    - Carlos
+    - Juan Carlos
+    - Juan
+    - Fernando
+    - Cataluña
+    - planta
+    - televisión
+    - coche
+    - perro
+    - camarera
+    - señor
+    - libro
+    - mesa
+    - silla
+    - reloj
+    - bici
+    - basurero
+    - lámpara
+    - pizarra
+    - casa
+    - hotel
+    - plato
+    - pared
+    - corriendo
+    - jugando
+    - riéndo
+    - durmiendo
+
+- question: un verbo es
+  answers: 
+    - una palabra que se utiliza para describir una acción
+    - palabras que reflejan acciones
+  wrong_options:
+    - una palabra que se utiliza para describir un objeto
+    - sustantivo común
+    - son palabras que se utilizan para nombrar objetos
+    - son palabras que se utilizan para nombrar personas
+    - son palabras que se utilizan para nombrar países
+    - palabras grandes
+    - palabras esdrújulas
+    - cosas para fastidiar a los niños que van al cole
+
+    
+- question: verbos
+  answers: 
+    - corriendo
+    - jugando
+    - riéndo
+    - durmiendo
+  wrong_options:
+    - Amarillo
+    - Verde
+    - grande
+    - guapo
+    - feo
+    - antipático
+    - simpático
+    - pequeño
+    - rápido
+    - listo
+    - inteligente
+    - lento
+    - Antonio
+    - Juan Antonio
+    - Carlos
+    - Juan Carlos
+    - Juan
+    - Fernando
+    - Cataluña
+    - planta
+    - televisión
+    - coche
+    - perro
+    - camarera
+    - señor
+    - libro
+    - mesa
+    - silla
+    - reloj
+    - bici
+    - basurero
+    - lámpara
+    - pizarra
+    - casa
+    - hotel
+    - plato
+    - pared
+
+
+    
+- question: 
+  answers: 
+    - nombres individuales
+    - son los que en singular se refieren a una persona, animal, planta u objeto
+  wrong_options:
+    - nombres colectivos
+    - son los que en singular se refierena a un conjunto de personas, animales, plantas u objetos
+    - nombres concretos
+    - son los que se refieren a personas, animales, plantas, u objetos que podemos percibir por los sentidos
+    - nombres abstrasctos
+    - son los que se refieren a conceptos, sentimientos, o ideas que sólo podemos pensar o imaginar y no los percibimos por los sentidos
+    
+    
+- question: 
+  answers: 
+    - nombres colectivos
+    - son los que en singular se refierena a un conjunto de personas, animales, plantas u objetos
+  wrong_options:
+    - nombres concretos
+    - son los que se refieren a personas, animales, plantas, u objetos que podemos percibir por los sentidos
+    - nombres abstrasctos
+    - son los que se refieren a conceptos, sentimientos, o ideas que sólo podemos pensar o imaginar y no los percibimos por los sentidos
+    - nombres individuales
+    - son los que en singular se refieren a una persona, animal, planta u objeto
+
+- question: 
+  answers: 
+    - nombres concretos
+    - son los que se refieren a personas, animales, plantas, u objetos que podemos percibir por los sentidos
+  wrong_options:
+    - nombres abstrasctos
+    - son los que se refieren a conceptos, sentimientos, o ideas que sólo podemos pensar o imaginar y no los percibimos por los sentidos
+    - nombres individuales
+    - son los que en singular se refieren a una persona, animal, planta u objeto
+    - nombres colectivos
+    - son los que en singular se refierena a un conjunto de personas, animales, plantas u objetos
+
+- question: 
+  answers: 
+    - nombres abstrasctos
+    - son los que se refieren a conceptos, sentimientos, o ideas que sólo podemos pensar o imaginar y no los percibimos por los sentidos
+  wrong_options:
+    - nombres individuales
+    - son los que en singular se refieren a una persona, animal, planta u objeto
+    - nombres colectivos
+    - son los que en singular se refierena a un conjunto de personas, animales, plantas u objetos
+    - nombres concretos
+    - son los que se refieren a personas, animales, plantas, u objetos que podemos percibir por los sentidos
+
+
+    
+    
+- question:  nombres individuales
+  answers: 
+    - pescador
+    - guepardo
+    - alcornoque
+    - mochila
+    - bolsa
+    - baraja
+    - río
+    - futbolista
+  wrong_options:
+    - pandilla
+    - jauría
+    - pinar
+    - esqueleto
+    - orquesta
+    - rebaño
+    
+    
+- question: nombres colectivos
+  answers: 
+    - pandilla
+    - jauría
+    - pinar
+    - esqueleto
+    - orquesta
+    - rebaño
+  wrong_options:
+    - pescador
+    - guepardo
+    - alcornoque
+    - mochila
+    - bolsa
+    - baraja
+
+- question: nombres concretos 
+  answers: 
+    - champú
+    - sal
+    - tapiz
+    - canción
+    - mesa
+    - pinar
+    - pino
+    - oveja
+    - rebaño
+    - pescador
+    - guepardo
+    - alcornoque
+    - mochila
+    - bolsa
+    - baraja
+    - anciano
+    - alimentos
+    - Julia
+    - hospital
+    - enfermo
+    - río
+    - Zaragoza
+    - futbolista
+  wrong_options:
+    - amor
+    - prudencia
+    - amabilidad
+    - honradez
+    - escasez
+    - desgracias
+    - enfermedad
+    - cariño
+
+- question:  nombres abstrasctos
+  answers: 
+    - amor
+    - prudencia
+    - amabilidad
+    - honradez
+    - escasez
+    - desgracias
+    - enfermedad
+    - cariño
+  wrong_options:
+    - champú
+    - sal
+    - tapiz
+    - canción
+    - mesa
+    - pinar
+    - pino
+    - oveja
+    - rebaño
+    - pescador
+    - guepardo
+    - alcornoque
+    - mochila
+    - bolsa
+    - baraja
+    - anciano
+    - alimentos
+    - Julia
+    - hospital
+    - enfermo
+    - río
+    - Zaragoza
+    - futbolista
+
