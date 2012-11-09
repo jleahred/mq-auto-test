@@ -1,0 +1,189 @@
+- question: Palabras homófobas
+  answers: 
+    - suenan igual, tienen distinto significado y se escriben distinto
+  wrong_options:
+    - que significan lo mismo
+    - que significan lo opuesto
+    - suenan igual, tienen distinto significado y se escriben igual
+    - suenan distinto, tienen el mismo significado y se escriben distinto
+
+- question:
+  answers: 
+    - sabia
+    - persona que sabe mucho
+  wrong_options:
+    - líquido que alimenta las plantas
+    - ninguna de las anteriores
+
+- question:
+  answers: 
+    - savia
+    - líquido que alimenta las plantas
+  wrong_options:
+    - persona que sabe mucho
+    - ninguna de las anteriores
+
+- question:
+  answers: 
+    - asta
+    - cuerno
+  wrong_options:
+    - preposición, hasta donde llegaron
+    - ninguna de las anteriores
+
+
+- question:
+  answers: 
+    - hasta
+    - preposición, hasta donde llegaron
+  wrong_options:
+    - cuerno
+    - ninguna de las anteriores
+
+- question:
+  answers: 
+    - bello
+    - algo bonito
+  wrong_options:
+    - pelo corto y suave que sale en el cuerpo
+    - ninguna de las anteriores
+
+- question:
+  answers: 
+    - vello
+    - pelo corto y suave que sale en el cuerpo
+  wrong_options:
+    - algo bonito
+    - ninguna de las anteriores
+
+- question:
+  answers: 
+    - a cuestas
+    - cargar con algo
+  wrong_options:
+    - echar a dormir
+    - ninguna de las anteriores
+
+- question:
+  answers: 
+    - acuestas
+    - echar a dormir
+  wrong_options:
+    - cargar con algo
+    - ninguna de las anteriores
+
+- question:
+  answers: 
+    - revelar
+    - contar un secreto
+  wrong_options:
+    - rebelión
+    - ninguna de las anteriores
+
+- question:
+  answers: 
+    - rebelión
+    - rebelar
+  wrong_options:
+    - contar un secreto
+    - ninguna de las anteriores
+
+    
+- question: tuvo
+  answers: 
+    - agustín tu_o  una idea
+  wrong_options:
+    - el tu_o de la pasta de dientes estaba vacío
+
+- question: tubo
+  answers: 
+    - el tu_o de la pasta de dientes estaba vacío
+  wrong_options:
+    - agustín tu_o  una idea
+
+    
+- question: hojear
+  answers: 
+    - estaba _ojeando las páginas del libro
+  wrong_options:
+    - estaba _ojeando el horizonte
+
+- question: ojear
+  answers: 
+    - estaba _ojeando el horizonte
+  wrong_options:
+    - estaba _ojeando las páginas del libro
+
+- question:
+  answers: 
+    - barón
+    - persona que es miembro de la nobleza
+  wrong_options:
+    - persona del sexo masculino
+
+- question:
+  answers: 
+    - varón
+    - persona del sexo masculino
+  wrong_options:
+    - persona que es miembro de la nobleza
+
+- question:
+  answers: 
+    - cavo
+    - yo ca_o un agujero
+  wrong_options:
+    - lengua de la tierra que penetra en el mar
+    - cruzamos en barco el ca_o de magallanes
+
+- question: cabo
+  answers: 
+    - lengua de la tierra que penetra en el mar
+    - cruzamos en barco el ca_o de magallanes
+  wrong_options:
+    - yo ca_o un agujero
+
+- question:
+  answers: 
+    - a ver
+    - fuimos a ver la cabalgata
+  wrong_options:
+    - tenía en su haber mucho dinero
+
+- question: azahar
+  answers: 
+    - las calles de Sevilla en primaver huelen a azahar
+  wrong_options:
+    - tiró los dados al azahar
+
+
+- question: azar
+  answers: 
+    - tiró los dados al azar
+  wrong_options:
+    - las calles de Sevilla en primaver huelen a azar
+
+    
+- question: género masculino
+  answers: 
+    - personas o animales machos
+  wrong_options:
+    - personas o animales hembras
+
+- question: género femenino
+  answers: 
+    - personas o animales hembras
+  wrong_options:
+    - personas o animales machos
+
+- question: singular
+  answers: 
+    - nos referimos a una sola cosa
+  wrong_options:
+    - nos referimos a muchas cosas
+    
+- question: plural
+  answers: 
+    - nos referimos a muchas cosas
+  wrong_options:
+    - nos referimos a una sola cosa
