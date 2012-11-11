@@ -263,11 +263,6 @@
     - i
   wrong_options:
     - í
-- question: barri_
-  answers: 
-    - o
-  wrong_options:
-    - ó
 - question: _enenosas
   answers: 
     - v

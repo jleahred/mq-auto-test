@@ -1,0 +1,244 @@
+﻿- question: 
+  answers: 
+    - present-> be
+    - past simple -> was/were
+    - past participle -> been
+    - meaning ->  ser, estar
+  wrong_options:
+    - present-> been
+    - present-> bed
+    - present-> is
+    - present-> was
+    - present-> were
+    - past simple -> is
+    - past simple -> been
+    - past simple -> bed
+    - past participle -> bed
+    - meaning ->  llegar a ser
+    - meaning ->  empezar
+    - meaning ->  doblar
+    - meaning ->  soplar
+    - meaning ->  romper
+    - meaning ->  traer
+    - meaning ->  construir
+    - meaning ->  quemar
+    - meaning ->  comprar
+
+    
+    
+- question: 
+  answers: 
+    - present-> become
+    - past simple -> became
+    - past participle -> become
+    - meaning ->  llegar a ser
+  wrong_options:
+    - present-> became
+    - past simple -> become
+    - past participle -> became
+    - present-> becomed
+    - past simple -> becomed
+    - past participle -> becamed
+    - meaning ->  ser, estar
+    - meaning ->  empezar
+    - meaning ->  doblar
+    - meaning ->  soplar
+    - meaning ->  romper
+    - meaning ->  traer
+    - meaning ->  construir
+    - meaning ->  quemar
+    - meaning ->  comprar
+
+
+- question: 
+  answers: 
+    - present-> begin
+    - past simple -> began
+    - past participle -> begun
+    - meaning ->  empezar
+  wrong_options:
+    - present-> began
+    - present-> begun
+    - past simple -> begin
+    - past simple -> begun
+    - past participle -> begin
+    - past participle -> began
+    - past simple -> begined
+    - past participle -> begined
+    - meaning ->  ser, estar
+    - meaning ->  llegar a ser
+    - meaning ->  doblar
+    - meaning ->  soplar
+    - meaning ->  romper
+    - meaning ->  traer
+    - meaning ->  construir
+    - meaning ->  quemar
+    - meaning ->  comprar
+
+    
+- question: 
+  answers: 
+    - present-> bend
+    - past simple -> bent
+    - past participle -> bent
+    - meaning -> doblar
+  wrong_options:
+    - present-> bent
+    - past simple -> bend 
+    - past participle -> bend
+    - past simple -> bended
+    - past participle -> bended
+    - meaning ->  ser, estar
+    - meaning ->  llegar a ser
+    - meaning ->  empezar
+    - meaning ->  soplar
+    - meaning ->  romper
+    - meaning ->  traer
+    - meaning ->  construir
+    - meaning ->  quemar
+    - meaning ->  comprar
+    
+
+- question: 
+  answers: 
+    - present-> blow
+    - past simple -> blew
+    - past participle -> blown
+    - meaning ->  soplar
+  wrong_options:
+    - present-> blew
+    - present-> blown
+    - past simple -> blow
+    - past participle -> blown
+    - past simple -> blowed
+    - past participle -> blowed
+    - meaning ->  ser, estar
+    - meaning ->  llegar a ser
+    - meaning ->  empezar
+    - meaning ->  doblar
+    - meaning ->  romper
+    - meaning ->  traer
+    - meaning ->  construir
+    - meaning ->  quemar
+    - meaning ->  comprar
+    
+    
+- question: 
+  answers: 
+    - present-> break
+    - past simple -> broke
+    - past participle -> broken
+    - meaning ->  romper
+  wrong_options:
+    - present-> broke
+    - present-> broken
+    - past simple -> break
+    - past simple -> broken
+    - past participle -> break
+    - past participle -> broke
+    - past simple -> breaked
+    - past participle -> breaked
+    - meaning ->  ser, estar
+    - meaning ->  llegar a ser
+    - meaning ->  empezar
+    - meaning ->  doblar
+    - meaning ->  soplar
+    - meaning ->  traer
+    - meaning ->  construir
+    - meaning ->  quemar
+    - meaning ->  comprar
+
+    
+- question: 
+  answers: 
+    - present-> bring
+    - past simple -> brought
+    - past participle -> brought
+    - meaning ->  traer
+  wrong_options:
+    - present-> brought
+    - past simple -> bring
+    - past participle -> bring
+    - past simple -> bringed
+    - past participle -> bringed
+    - meaning ->  ser, estar
+    - meaning ->  llegar a ser
+    - meaning ->  empezar
+    - meaning ->  doblar
+    - meaning ->  soplar
+    - meaning ->  romper
+    - meaning ->  construir
+    - meaning ->  quemar
+    - meaning ->  comprar
+
+    
+    
+- question: 
+  answers: 
+    - present-> build
+    - past simple -> built
+    - past participle -> built
+    - meaning ->  construir
+  wrong_options:
+    - present-> built
+    - past simple -> build
+    - past participle -> build
+    - past simple -> builded
+    - past participle -> builded
+    - meaning ->  ser, estar
+    - meaning ->  llegar a ser
+    - meaning ->  empezar
+    - meaning ->  doblar
+    - meaning ->  soplar
+    - meaning ->  romper
+    - meaning ->  traer
+    - meaning ->  quemar
+    - meaning ->  comprar
+
+    
+    
+- question: 
+  answers: 
+    - present-> burn
+    - past simple -> burned/burnt
+    - past participle -> burnt
+    - meaning ->  quemar
+  wrong_options:
+    - present-> brurned
+    - present-> burnt
+    - past simple -> burn
+    - past participle -> burn
+    - past simple -> burned
+    - past participle -> burned
+    - meaning ->  ser, estar
+    - meaning ->  llegar a ser
+    - meaning ->  empezar
+    - meaning ->  doblar
+    - meaning ->  soplar
+    - meaning ->  romper
+    - meaning ->  traer
+    - meaning ->  construir
+    - meaning ->  comprar
+
+    
+- question: 
+  answers: 
+    - present-> buy
+    - past simple -> bought
+    - past participle -> bought
+    - meaning ->  comprar
+  wrong_options:
+    - present-> bought
+    - past simple ->  buy
+    - past participle -> buy
+    - past simple -> buyed
+    - past participle -> buyed
+    - meaning ->  ser, estar
+    - meaning ->  llegar a ser
+    - meaning ->  empezar
+    - meaning ->  doblar
+    - meaning ->  soplar
+    - meaning ->  romper
+    - meaning ->  traer
+    - meaning ->  construir
+    - meaning ->  quemar

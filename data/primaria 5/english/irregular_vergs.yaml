@@ -1,0 +1,428 @@
+﻿- question: 
+  answers: 
+    - help
+    - helped
+  wrong_options:
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+
+    
+    
+- question: 
+  answers: 
+    - teach
+    - taught
+  wrong_options:
+    - help
+    - helped
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+    - teached
+    - taughted
+
+- question: 
+  answers: 
+    - protect
+    - protected
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+
+- question: 
+  answers: 
+    - have
+    - had
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+    - haved
+    - haded
+
+- question: 
+  answers: 
+    - are
+    - were
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+    - ared
+    - wered
+
+- question: 
+  answers: 
+    - send
+    - sent
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+    - sended
+    - sented
+
+- question: 
+  answers: 
+    - make
+    - made
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+    - maked
+    - maded
+
+- question: 
+  answers: 
+    - create
+    - created
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - is
+    - was
+    - come
+    - came
+
+- question: 
+  answers: 
+    - is
+    - was
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - come
+    - came
+    - ised
+    - wased
+
+- question: 
+  answers: 
+    - come
+    - came
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - comed
+    - camed
+
+- question: Regular verb
+  answers: 
+    - create
+    - help
+    - protect
+    - plant
+    - live
+    - ask
+    - want
+    - call
+    - wish
+    - shout
+    - marry
+    - explain
+    - look
+    - say
+    - start
+    - help
+    - wait
+    - cry
+    - stay
+  wrong_options:
+    - teach
+    - make
+    - send
+    - have
+    - come
+    - are
+    - is
+    - go
+    - feel
+    - see
+    - come
+    - hear
+    - get
+    - know
+    
+- question: Iregular verb
+  answers: 
+    - teach
+    - make
+    - send
+    - have
+    - come
+    - are
+    - is
+    - go
+    - feel
+    - see
+    - come
+    - hear
+    - get
+    - know
+  wrong_options:
+    - create
+    - help
+    - protect
+    - plant
+    - live
+    - ask
+    - want
+    - call
+    - wish
+    - shout
+    - marry
+    - explain
+    - look
+    - say
+    - start
+    - help
+    - wait
+    - cry
+    - stay
+    
+
+- question: teach
+  answers: 
+    - taught
+  wrong_options:
+    - teached
+
+- question: make
+  answers: 
+    - made
+  wrong_options:
+    - maked
+
+- question: send
+  answers: 
+    - sent
+  wrong_options:
+    - sended
+    - sended
+    
+- question: have
+  answers: 
+    - had
+  wrong_options:
+    - haved
+    - haded
+    
+- question: come
+  answers: 
+    - came
+  wrong_options:
+    - comed
+    - camed
+    
+- question: are
+  answers: 
+    - were
+  wrong_options:
+    - was
+    - wered
+    - ared
+    - wased
+    
+- question: is
+  answers: 
+    - was
+  wrong_options:
+    - was
+    - wered
+    - ared
+    - wased
+- question: go
+  answers: 
+    - went
+  wrong_options:
+    - goed
+    - wented
+    
+- question: feel
+  answers: 
+    - felt
+  wrong_options:
+    - feelt
+    - feeled
+    - felted
+    
+- question: see
+  answers: 
+    - saw
+  wrong_options:
+    - seed
+    - sawed
+- question: come
+  answers: 
+    - came
+  wrong_options:
+    - comed
+    - camed
+- question: hear
+  answers: 
+    - heard
+  wrong_options:
+    - heared
+    - hearded
+- question: know
+  answers: 
+    - known
+  wrong_options:
+    - knowed
+    - knowned
+
+    
+    
+
+    - present-> be
+    - past simple -> was/were
+    - past participle -> been
+    - meaning ->  ser, estar

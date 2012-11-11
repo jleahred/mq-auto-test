@@ -1,0 +1,996 @@
+﻿- question: 
+  answers: 
+    - help
+    - helped
+  wrong_options:
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+
+    
+    
+- question: 
+  answers: 
+    - teach
+    - taught
+  wrong_options:
+    - help
+    - helped
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+    - teached
+    - taughted
+
+- question: 
+  answers: 
+    - protect
+    - protected
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+
+- question: 
+  answers: 
+    - have
+    - had
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+    - haved
+    - haded
+
+- question: 
+  answers: 
+    - are
+    - were
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+    - ared
+    - wered
+
+- question: 
+  answers: 
+    - send
+    - sent
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+    - sended
+    - sented
+
+- question: 
+  answers: 
+    - make
+    - made
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - create
+    - created
+    - is
+    - was
+    - come
+    - came
+    - maked
+    - maded
+
+- question: 
+  answers: 
+    - create
+    - created
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - is
+    - was
+    - come
+    - came
+
+- question: 
+  answers: 
+    - is
+    - was
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - come
+    - came
+    - ised
+    - wased
+
+- question: 
+  answers: 
+    - come
+    - came
+  wrong_options:
+    - help
+    - helped
+    - teach
+    - taught
+    - protect
+    - protected
+    - have
+    - had
+    - are
+    - were
+    - send
+    - sent
+    - make
+    - made
+    - create
+    - created
+    - is
+    - was
+    - comed
+    - camed
+
+
+- question: The Maya people  ____  very good at Maths.
+  answers: 
+    - were
+  wrong_options:
+    - was
+    
+    
+- question: In the Maya number, system there  ____  three symbols
+  answers: 
+    - were
+  wrong_options:
+    - was
+    
+- question: This number system  ____  useful
+  answers: 
+    - was    
+  wrong_options:
+    - were
+    
+- question: The Maya number system  ____  better than the number system used in Europe (not much better, in fact)
+  answers: 
+    - was    
+  wrong_options:
+    - were
+    
+- question: Regular verb
+  answers: 
+    - create
+    - help
+    - protect
+    - plant
+    - live
+    - ask
+    - want
+    - call
+    - wish
+    - shout
+    - marry
+    - explain
+    - look
+    - say
+    - start
+    - help
+    - wait
+    - cry
+    - stay
+  wrong_options:
+    - teach
+    - make
+    - send
+    - have
+    - come
+    - are
+    - is
+    - go
+    - feel
+    - see
+    - come
+    - hear
+    - get
+    - know
+    
+- question: Iregular verb
+  answers: 
+    - teach
+    - make
+    - send
+    - have
+    - come
+    - are
+    - is
+    - go
+    - feel
+    - see
+    - come
+    - hear
+    - get
+    - know
+  wrong_options:
+    - create
+    - help
+    - protect
+    - plant
+    - live
+    - ask
+    - want
+    - call
+    - wish
+    - shout
+    - marry
+    - explain
+    - look
+    - say
+    - start
+    - help
+    - wait
+    - cry
+    - stay
+    
+
+- question: teach
+  answers: 
+    - taught
+  wrong_options:
+    - teached
+
+- question: make
+  answers: 
+    - made
+  wrong_options:
+    - maked
+
+- question: send
+  answers: 
+    - sent
+  wrong_options:
+    - sended
+    - sended
+    
+- question: have
+  answers: 
+    - had
+  wrong_options:
+    - haved
+    - haded
+    
+- question: come
+  answers: 
+    - came
+  wrong_options:
+    - comed
+    - camed
+    
+- question: are
+  answers: 
+    - were
+  wrong_options:
+    - was
+    - wered
+    - ared
+    - wased
+    
+- question: is
+  answers: 
+    - was
+  wrong_options:
+    - wered
+    - ared
+    - wased
+- question: go
+  answers: 
+    - went
+  wrong_options:
+    - goed
+    - wented
+    
+- question: feel
+  answers: 
+    - felt
+  wrong_options:
+    - feelt
+    - feeled
+    - felted
+    
+- question: see
+  answers: 
+    - saw
+  wrong_options:
+    - seed
+    - sawed
+- question: come
+  answers: 
+    - came
+  wrong_options:
+    - comed
+    - camed
+- question: hear
+  answers: 
+    - heard
+  wrong_options:
+    - heared
+    - hearded
+- question: know
+  answers: 
+    - known
+  wrong_options:
+    - knowed
+    - knowned
+
+
+    
+    
+    
+- question: Imahero and Denake lived...
+  answers: 
+    - in the village with their father
+  wrong_options:
+    - a beautiful star in the sky
+    - for the start with all her heart
+    - a voice in the house
+    - man with a long, white hair
+    - at the old man
+    - married
+    - into the forest to plant crops
+
+- question: One night, Imahero saw...
+  answers: 
+    - a beautiful star in the sky
+  wrong_options:
+    - in the village with their father
+    - for the start with all her heart
+    - a voice in the house
+    - man with a long, white hair
+    - at the old man
+    - married
+    - into the forest to plant crops
+
+- question: Imahero wished and wished...
+  answers: 
+    - for the start with all her heart
+  wrong_options:
+    - in the village with their father
+    - a beautiful star in the sky
+    - a voice in the house
+    - man with a long, white hair
+    - at the old man
+    - married
+    - into the forest to plant crops
+
+- question: On day, she heard...
+  answers: 
+    - a voice in the house
+  wrong_options:
+    - in the village with their father
+    - a beautiful star in the sky
+    - for the start with all her heart
+    - man with a long, white hair
+    - at the old man
+    - married
+    - into the forest to plant crops
+
+- question: Imahero saw a very old...
+  answers: 
+    - man with a long, white hair
+  wrong_options:
+    - in the village with their father
+    - a beautiful star in the sky
+    - for the start with all her heart
+    - a voice in the house
+    - at the old man
+    - married
+    - into the forest to plant crops
+
+- question: Imahero shouted... 
+  answers: 
+    - at the old man
+  wrong_options:
+    - in the village with their father
+    - a beautiful star in the sky
+    - for the start with all her heart
+    - a voice in the house
+    - man with a long, white hair
+    - married
+    - into the forest to plant crops
+
+
+- question: Tahina-Ca and Denake got...
+  answers: 
+    - married
+  wrong_options:
+    - in the village with their father
+    - a beautiful star in the sky
+    - for the start with all her heart
+    - a voice in the house
+    - man with a long, white hair
+    - at the old man
+    - into the forest to plant crops
+
+
+- question: Tahina-Ca went...
+  answers: 
+    - into the forest to plant crops
+  wrong_options:
+    - in the village with their father
+    - a beautiful star in the sky
+    - for the start with all her heart
+    - a voice in the house
+    - man with a long, white hair
+    - at the old man
+    - married
+
+    
+    
+- question: young
+  answers: 
+    - joven
+  wrong_options:
+    - flojo
+    - fuerte
+    - orgulloso
+    - enfadado
+    - guapo
+    - amable
+    - feliz
+    - triste
+- question: old
+  answers: 
+    - viejo
+  wrong_options:
+    - joven
+    - flojo
+    - fuerte
+    - orgulloso
+    - enfadado
+    - guapo
+    - amable
+    - feliz
+    - triste
+- question: weak 
+  answers: 
+    - flojo
+  wrong_options:
+    - joven
+    - viejo
+    - fuerte
+    - orgulloso
+    - enfadado
+    - guapo
+    - amable
+    - feliz
+    - triste
+- question: strong 
+  answers: 
+    - fuerte
+  wrong_options:
+    - joven
+    - viejo
+    - fuerte
+    - orgulloso
+    - enfadado
+    - guapo
+    - amable
+    - feliz
+    - triste
+- question: proud
+  answers: 
+    - orgulloso
+  wrong_options:
+    - joven
+    - viejo
+    - flojo
+    - fuerte
+    - enfadado
+    - guapo
+    - amable
+    - feliz
+    - triste
+- question: angry
+  answers: 
+    - enfadado
+  wrong_options:
+    - joven
+    - viejo
+    - flojo
+    - fuerte
+    - orgulloso
+    - guapo
+    - amable
+    - feliz
+    - triste
+- question: handsome
+  answers: 
+    - guapo
+  wrong_options:
+    - joven
+    - viejo
+    - flojo
+    - fuerte
+    - orgulloso
+    - amable
+    - feliz
+    - triste
+   
+- question: kind
+  answers: 
+    - amable
+  wrong_options:
+    - joven
+    - viejo
+    - flojo
+    - fuerte
+    - orgulloso
+    - feliz
+    - triste
+- question: happy
+  answers: 
+    - feliz
+  wrong_options:
+    - joven
+    - viejo
+    - flojo
+    - fuerte
+    - orgulloso
+    - amable
+    - triste
+    
+- question: sad
+  answers: 
+    - triste
+  wrong_options:
+    - joven
+    - viejo
+    - flojo
+    - fuerte
+    - orgulloso
+    - amable
+    - feliz
+
+
+    
+    
+- question: ___ did Tahina-Ca give Denake?  He gave Denake the gift of crops
+  answers: 
+    - what
+  wrong_options:
+    - who
+    - where
+    - when
+    - why
+    - how
+- question: ___ did Thina-Ca go? He went into the forest
+  answers: 
+    - where
+  wrong_options:
+    - who
+    - what
+    - when
+    - why
+    - how
+- question: ___ did he collect the seeds?   He collected the seeds with his hands
+  answers: 
+    - how
+  wrong_options:
+    - who
+    - what
+    - where
+    - when
+    - why
+- question: ___ did he plant the seeds?  He planted the seeds in a clearing
+  answers: 
+    - where
+  wrong_options:
+    - who
+    - what
+    - when
+    - why
+    - how
+- question: ___ did Denake go into the forest?  She went into the forest this afternoon
+  answers: 
+    - when
+  wrong_options:
+    - who
+    - what
+    - where
+    - why
+    - how
+- question: ___ did denake see in the clearing?  She saw some small plants
+  answers: 
+    - what
+  wrong_options:
+    - who
+    - where
+    - when
+    - why
+    - how
+- question: ___ did she find in the forest?  She saw  some small plants
+  answers: 
+    - what
+  wrong_options:
+    - who
+    - where
+    - when
+    - why
+    - how
+- question: ___ did Imahero start cry?  She started to cry because she...
+  answers: 
+    - why
+  wrong_options:
+    - who
+    - what
+    - where
+    - when
+    - how
+- question: ___ did Imahero become?  She become a bird
+  answers: 
+    - what
+  wrong_options:
+    - who
+    - where
+    - when
+    - why
+    - how
+
+  
+  
+- question: Where did Tahina-Ca go?  He ___ into the forest
+  answers: 
+    - went
+  wrong_options:
+    - colected
+    - planted
+    - saw
+    - gave
+    - started
+    - become
+- question: How did he collect the seeds? He ____  the seeds with his hands
+  answers: 
+    - colected
+  wrong_options:
+    - went
+    - planted
+    - saw
+    - gave
+    - started
+    - become
+- question: Where did he plant the seeds?  He ____ the seeds ina clearing
+  answers: 
+    - planted
+  wrong_options:
+    - went
+    - colected
+    - saw
+    - gave
+    - started
+    - become
+- question: When did Denake go into the forest? She  ___ into the forest in the afternoon
+  answers: 
+    - went
+  wrong_options:
+    - colected
+    - planted
+    - saw
+    - gave
+    - started
+    - become
+- question: What did Denake see in the forest? She ___ some small plants
+  answers: 
+    - saw
+  wrong_options:
+    - went
+    - colected
+    - planted
+    - gave
+    - started
+    - become
+- question: Who did she find in the forest?  She ___  a handsome, young man
+  answers: 
+    - found
+  wrong_options:
+    - went
+    - colected
+    - planted
+    - saw
+    - gave
+    - started
+    - become
+- question: What did Tahina-Ca give Denake?  He  __  Denake the gift of crops
+  answers: 
+    - gave
+  wrong_options:
+    - went
+    - colected
+    - planted
+    - saw
+    - started
+    - become
+- question: She  ___ to cry because she wanted to marry Tahina-Ca
+  answers: 
+    - started
+  wrong_options:
+    - went
+    - colected
+    - planted
+    - saw
+    - gave
+    - become
+- question: She  ___ a bird
+  answers: 
+    - become
+  wrong_options:
+    - went
+    - colected
+    - planted
+    - saw
+    - gave
+    - started
+
+
+- question: small
+  answers: 
+    - smaller
+  wrong_options:
+    - more small
+- question: angry
+  answers: 
+    - more angry
+  wrong_options:
+    - angryer
+- question: weak
+  answers: 
+    - weaker
+  wrong_options:
+    - more weak
+- question: early
+  answers: 
+    - more early
+  wrong_options:
+    - earlyer
+- question: good
+  answers: 
+    - better
+  wrong_options:
+    - gooder
+    - more good
+- question: sad
+  answers: 
+    - sadder
+  wrong_options:
+    - sader
+    - more sad
+- question: powerful
+  answers: 
+    - more powerful
+  wrong_options:
+    - powerfuler
+- question: young
+  answers: 
+    - younger
+  wrong_options:
+    - more young
+- question: democratic
+  answers: 
+    - more democratic
+  wrong_options:
+    - democraticer
+- question: beautiful
+  answers: 
+    - more beautiful
+  wrong_options:
+    - beautifuler
+- question: handsome
+  answers: 
+    - more handsome
+  wrong_options:
+    - handsomer
+- question: heavy
+  answers: 
+    - more heavy
+  wrong_options:
+    - heavyer
+- question: old
+  answers: 
+    - older
+  wrong_options:
+    - more old
+- question: strong
+  answers: 
+    - stronger
+  wrong_options:
+    - more strong
+- question: bad
+  answers: 
+    - badder
+  wrong_options:
+    - more bad
+- question: ugly
+  answers: 
+    - more ugly
+  wrong_options:
+    - uglier
+- question: happy
+  answers: 
+    - more happy
+  wrong_options:
+    - happyer
+- question: big
+  answers: 
+    - bigger
+  wrong_options:
+    - more big
+- question: peaceful
+  answers: 
+    - more peaceful
+  wrong_options:
+    - peacefuler
+- question: kind
+  answers: 
+    - kinder
+  wrong_options:
+    - more kind
+- question: advanced
+  answers: 
+    - more advanced
+  wrong_options:
+    - advanceder
+
+    
+    
+    
+- question: They ___  roads in the mountains
+  answers: 
+    - built
+  wrong_options:
+    - build
+- question: Did they  ___ how to read?
+  answers: 
+    - knew
+  wrong_options:
+    - know
+- question: The Inca people  ___  how to write
+  answers: 
+    - "didn't know"
+  wrong_options:
+    - "didn't knew"
+- question: They ___  a special system for counting
+  answers: 
+    - had
+  wrong_options:
+    - have
+- question: They  ___ the weel, so they travelled on foot
+  answers: 
+    - "didn't discover"
+  wrong_options:
+    - "didn't discovered"
+- question: Did they  __ horses?
+  answers: 
+    - have
+  wrong_options:
+    - had
